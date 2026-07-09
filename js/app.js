@@ -3,6 +3,8 @@
   'use strict';
 
   function boot() {
+    // Test seam: lets the e2e suite substitute deterministic fixture data.
+    if (typeof window.__SAT_TEST_HOOK__ === 'function') window.__SAT_TEST_HOOK__(window.SAT_DATA);
     S.state.init();
     var integrity = S.data.init();
     S.ui.applyTheme();

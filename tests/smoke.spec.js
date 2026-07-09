@@ -3,6 +3,14 @@
 // Each test gets a fresh browser context, so localStorage is isolated per test.
 const { test, expect } = require('@playwright/test');
 
+
+async function readState(page) {
+  return page.evaluate(() => {
+    window.SATPrep.storage.flush();
+    return JSON.parse(localStorage.getItem('sat1600.v1'));
+  });
+}
+
 function urlFor(baseURL, hash) {
   return baseURL + '/index.html' + hash;
 }
@@ -11,8 +19,7 @@ function urlFor(baseURL, hash) {
 // script; the DOMContentLoaded listener below runs BEFORE app.js's boot listener
 // (registration order), after all data files have executed.
 const FIXTURE = `
-document.addEventListener('DOMContentLoaded', function () {
-  var D = window.SAT_DATA = window.SAT_DATA || {};
+window.__SAT_TEST_HOOK__ = function (D) {
   D.rwBank = [{
     id: 'fix-chart-1', domain: 'information', skill: 'evidence-quant', difficulty: 'hard', targetSeconds: 95,
     passage: { type: 'chart', text: 'A team measured germination rates. The treatment with the highest rate for Species A was ______',
@@ -40,7 +47,7 @@ document.addEventListener('DOMContentLoaded', function () {
       ], answer: 0 });
   }
   D.mocks = [{ id: 'fix-mock', title: 'Fixture Module', subtitle: 'test only', timeLimitSeconds: 1920, questions: qs }];
-}, { once: true });
+};
 `;
 
 test.describe('boot & integrity', () => {
@@ -72,7 +79,7 @@ test.describe('flashcards / SRS', () => {
     await page.goto(urlFor(baseURL, '#/vocab/flashcards'));
     await page.locator('.fc-card').click();
     await page.locator('.fc-good').click();
-    const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')));
+    const stored = await readState(page);
     const recs = Object.values(stored.srs);
     expect(recs.length).toBe(1);
     expect(recs[0].ivl).toBe(1);
@@ -86,7 +93,7 @@ test.describe('flashcards / SRS', () => {
     await page.goto(urlFor(baseURL, '#/vocab/flashcards'));
     await page.locator('.fc-card').click();
     await page.locator('.fc-again').click();
-    const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')));
+    const stored = await readState(page);
     expect(Object.values(stored.srs)[0].lapses).toBe(1);
   });
 
@@ -96,7 +103,7 @@ test.describe('flashcards / SRS', () => {
     await page.keyboard.press(' ');
     await page.locator('.fc-good').waitFor();
     await page.keyboard.press('3');
-    const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')));
+    const stored = await readState(page);
     expect(Object.keys(stored.srs).length).toBe(1);
   });
 });
@@ -115,7 +122,7 @@ test.describe('vocab quiz (real content)', () => {
     });
     await page.locator('.choice').nth(answer).click();
     await expect(page.locator('.explain-correct')).toBeVisible();
-    const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')));
+    const stored = await readState(page);
     expect(Object.keys(stored.qhist).length).toBe(1);
   });
 });
@@ -134,7 +141,7 @@ test.describe('practice with fixtures', () => {
     await page.locator('.modal button:has-text("Log it")').click();
     await expect(page.locator('.modal-backdrop')).toHaveCount(0);
     await expect(page.locator('.explain')).toHaveCount(4);
-    const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')));
+    const stored = await readState(page);
     expect(stored.errorLog.length).toBe(1);
     expect(stored.errorLog[0].missTag).toBe('fell-for-distractor');
     expect(stored.errorLog[0].qid).toBe('fix-chart-1');
@@ -145,7 +152,7 @@ test.describe('practice with fixtures', () => {
     await page.goto(urlFor(baseURL, '#/practice/evidence-quant'));
     await page.locator('.choice').nth(0).click();
     await expect(page.locator('.explain-correct')).toBeVisible();
-    const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')));
+    const stored = await readState(page);
     expect(stored.qhist['fix-chart-1'].attempts[0].correct).toBe(true);
   });
 });
@@ -180,7 +187,7 @@ test.describe('mock module with fixtures', () => {
     await page.locator('button:has-text("Submit module")').click();
     await expect(page.locator('h1')).toContainText('Score Report');
     await expect(page.locator('.score-big')).toHaveText('1 / 27');
-    const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')));
+    const stored = await readState(page);
     expect(stored.mockAttempts['fix-mock'][0].raw).toBe(1);
     expect(stored.mockAttempts['fix-mock'][0].routedHigher).toBe(false);
     expect(stored.activeMock).toBe(null);
@@ -192,10 +199,10 @@ test.describe('mock module with fixtures', () => {
     await page.goto(urlFor(baseURL, '#/mock/fix-mock'));
     await page.locator('button:has-text("Begin module")').click();
     await page.locator('.choice').nth(0).click();
-    const before = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')).activeMock.deadlineEpochMs);
+    const before = (await readState(page)).activeMock.deadlineEpochMs;
     await page.reload();
     await expect(page.locator('.mock-timer')).toBeVisible();
-    const after = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')).activeMock.deadlineEpochMs);
+    const after = (await readState(page)).activeMock.deadlineEpochMs;
     expect(after).toBe(before);
     await expect(page.locator('.choice[aria-checked="true"]')).toHaveCount(1);
   });
@@ -222,7 +229,7 @@ test.describe('redo flow', () => {
     await expect(page.locator('.explain')).toHaveCount(0); // answer NOT pre-revealed
     await page.locator('.choice').nth(0).click();
     await expect(page.locator('.explain-correct').first()).toBeVisible();
-    const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')));
+    const stored = await readState(page);
     expect(stored.errorLog[0].redo.streak).toBe(1);
     expect(stored.errorLog[0].resolved).toBe(false);
   });
@@ -246,7 +253,7 @@ test.describe('export/import', () => {
       const S = window.SATPrep;
       S.state.replaceState(S.storage.importState(json));
     }, exported);
-    const stored = await page.evaluate(() => JSON.parse(localStorage.getItem('sat1600.v1')));
+    const stored = await readState(page);
     expect(Object.keys(stored.srs).length).toBe(1);
   });
 });
