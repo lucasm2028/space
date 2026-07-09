@@ -1,0 +1,7320 @@
+[
+ {
+  "word": "abate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "decrease",
+   "lessen"
+  ],
+  "example": "The storm finally began to abate after three days of heavy rain",
+  "list": "mustHave",
+  "id": "mh-abate"
+ },
+ {
+  "word": "abolished",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "eliminated",
+   "ended"
+  ],
+  "example": "Slavery was abolished in the United States after the Civil War",
+  "list": "mustHave",
+  "id": "mh-abolished"
+ },
+ {
+  "word": "abridge",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "shorten",
+   "reduce"
+  ],
+  "example": "The publisher decided to abridge the novel to make it more accessible to young readers",
+  "list": "mustHave",
+  "id": "mh-abridge"
+ },
+ {
+  "word": "accentuate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "emphasize",
+   "highlight"
+  ],
+  "example": "The lighting was designed to accentuate the architectural features of the building.",
+  "list": "mustHave",
+  "id": "mh-accentuate"
+ },
+ {
+  "word": "acceptable",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Meeting the required standards or criteria, satisfactory or permissible.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-acceptable"
+ },
+ {
+  "word": "accessible",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "(of a place) able to be reached or entered; easily understood or appreciated.",
+  "synonyms": [
+   "reachable",
+   "available"
+  ],
+  "example": "The library made its digital archives accessible to researchers worldwide",
+  "list": "mustHave",
+  "id": "mh-accessible"
+ },
+ {
+  "word": "accessory",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A thing which can be added to something else in order to make it more useful, versatile, or attractive.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-accessory"
+ },
+ {
+  "word": "acclaim",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "praise",
+   "applause"
+  ],
+  "example": "The novel received widespread acclaim from critics and won several prestigious literary awards.",
+  "list": "mustHave",
+  "id": "mh-acclaim"
+ },
+ {
+  "word": "accomplishment",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Achievement or successful completion of something, attainment or fulfillment.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-accomplishment"
+ },
+ {
+  "word": "acknowledge",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Recognize or admit the existence, truth, or importance of something, accept or affirm.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-acknowledge"
+ },
+ {
+  "word": "acquiesce",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "agree",
+   "accept"
+  ],
+  "example": "She didn't like the plan but decided to acquiesce to avoid further conflict",
+  "list": "mustHave",
+  "id": "mh-acquiesce"
+ },
+ {
+  "word": "acquired",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Obtained or gained through effort or experience, acquired or learned.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-acquired"
+ },
+ {
+  "word": "adhere",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "Follow or stick to a rule, guideline, or principle.",
+  "synonyms": [
+   "stick to",
+   "follow"
+  ],
+  "example": "All employees must adhere to the company's code of conduct and ethical guidelines",
+  "forms": [
+   "adhere to"
+  ],
+  "list": "mustHave",
+  "id": "mh-adhere"
+ },
+ {
+  "word": "advantageous",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Favorable or beneficial, offering advantages or benefits.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-advantageous"
+ },
+ {
+  "word": "advocate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "support",
+   "promote"
+  ],
+  "example": "Many scientists advocate for stricter regulations on carbon emissions",
+  "list": "mustHave",
+  "id": "mh-advocate"
+ },
+ {
+  "word": "affecting",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "touching",
+   "moving",
+   "emotional"
+  ],
+  "example": "The documentary presented an affecting portrayal of families coping with loss.",
+  "list": "mustHave",
+  "id": "mh-affecting"
+ },
+ {
+  "word": "affinity",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "A natural liking or attraction to something or someone.",
+  "synonyms": [
+   "attraction",
+   "liking",
+   "connection"
+  ],
+  "example": "She felt a natural affinity for children and decided to become a teacher.",
+  "list": "mustHave",
+  "id": "mh-affinity"
+ },
+ {
+  "word": "aggressive",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Assertive or forceful in behavior or approach, often with an intent to dominate.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-aggressive"
+ },
+ {
+  "word": "alga",
+  "lists": [
+   "hard"
+  ],
+  "definition": "A simple, non-flowering, and typically aquatic plant of a large group that includes the seaweeds and many single-celled forms.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-alga"
+ },
+ {
+  "word": "allude",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "refer to",
+   "hint at",
+   "suggest"
+  ],
+  "example": "The author frequently alludes to classical mythology throughout the novel.",
+  "list": "mustHave",
+  "id": "mh-allude"
+ },
+ {
+  "word": "ambiguous",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Having multiple possible meanings or interpretations, lacking clarity or definiteness.",
+  "synonyms": [
+   "unclear",
+   "vague"
+  ],
+  "example": "The contract's ambiguous wording led to different interpretations by both parties.",
+  "list": "mustHave",
+  "id": "mh-ambiguous"
+ },
+ {
+  "word": "ambivalence",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "The coexistence of conflicting feelings or attitudes towards something, mixed emotions or uncertainty.",
+  "synonyms": [
+   "uncertainty",
+   "indecision"
+  ],
+  "example": "She felt ambivalence about the job offer, excited yet hesitant to relocate.",
+  "forms": [
+   "ambivalence of"
+  ],
+  "list": "mustHave",
+  "id": "mh-ambivalence"
+ },
+ {
+  "word": "ameliorate",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Make (something bad or unsatisfactory) better.",
+  "synonyms": [
+   "improve",
+   "enhance",
+   "better"
+  ],
+  "example": "New regulations were introduced to ameliorate working conditions in the industry.",
+  "list": "mustHave",
+  "id": "mh-ameliorate"
+ },
+ {
+  "word": "amorphous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "shapeless",
+   "formless"
+  ],
+  "example": "The amorphous cloud of gas slowly coalesced into a more defined structure.",
+  "list": "mustHave",
+  "id": "mh-amorphous"
+ },
+ {
+  "word": "analogous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "similar",
+   "comparable",
+   "parallel"
+  ],
+  "example": "The relationship between teacher and student is analogous to that of mentor and apprentice.",
+  "list": "mustHave",
+  "id": "mh-analogous"
+ },
+ {
+  "word": "analogy",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A comparison between one thing and another, typically for the purpose of explanation or clarification.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-analogy"
+ },
+ {
+  "word": "angular",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Having angles or sharp corners.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-angular"
+ },
+ {
+  "word": "animosities toward",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Hostile or negative feelings directed toward someone or something.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-animosities-toward"
+ },
+ {
+  "word": "annotate",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Make explanatory or critical notes on a text or document.",
+  "synonyms": [
+   "comment on",
+   "explain",
+   "note"
+  ],
+  "example": "Students were asked to annotate the text with their observations and questions.",
+  "list": "mustHave",
+  "id": "mh-annotate"
+ },
+ {
+  "word": "anomalous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "abnormal",
+   "unusual"
+  ],
+  "example": "The anomalous test results prompted doctors to conduct further medical examinations.",
+  "list": "mustHave",
+  "id": "mh-anomalous"
+ },
+ {
+  "word": "anomaly",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Something that deviates from what is considered normal or expected, an outlier.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-anomaly"
+ },
+ {
+  "word": "antagonistic",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Showing or feeling active opposition or hostility towards someone or something.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-antagonistic"
+ },
+ {
+  "word": "antecedent",
+  "lists": [
+   "hard"
+  ],
+  "definition": "A thing that existed before or logically precedes another.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-antecedent"
+ },
+ {
+  "word": "anthropology",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The study of human societies and cultures and their development; the study of human biological and physiological characteristics and their evolution.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-anthropology"
+ },
+ {
+  "word": "anticipate",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Regard as probable; expect or predict.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-anticipate"
+ },
+ {
+  "word": "anticipating",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Expecting or predicting something to happen, foreseeing or preparing for.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-anticipating"
+ },
+ {
+  "word": "appease",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "satisfy"
+  ],
+  "example": "The government made concessions to appease the protesters and avoid further civil unrest.",
+  "list": "mustHave",
+  "id": "mh-appease"
+ },
+ {
+  "word": "applaud",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "praise",
+   "acclaim"
+  ],
+  "example": "Critics were quick to applaud the director's innovative approach to filmmaking",
+  "list": "mustHave",
+  "id": "mh-applaud"
+ },
+ {
+  "word": "applicable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "relevant",
+   "appropriate",
+   "pertinent"
+  ],
+  "example": "The new regulations are applicable to all businesses operating within the city limits.",
+  "list": "mustHave",
+  "id": "mh-applicable"
+ },
+ {
+  "word": "appraising",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "evaluating",
+   "assessing"
+  ],
+  "example": "The expert spent hours appraising the antique furniture to determine its value.",
+  "list": "mustHave",
+  "id": "mh-appraising"
+ },
+ {
+  "word": "apprehend",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "arrest",
+   "capture",
+   "understand"
+  ],
+  "example": "Police were able to apprehend the suspect within hours of the robbery.",
+  "list": "mustHave",
+  "id": "mh-apprehend"
+ },
+ {
+  "word": "apprentice",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "trainee",
+   "learner"
+  ],
+  "example": "The young apprentice learned traditional carpentry techniques from the master craftsman.",
+  "list": "mustHave",
+  "id": "mh-apprentice"
+ },
+ {
+  "word": "approbation",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Approval or praise.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-approbation"
+ },
+ {
+  "word": "appropriate",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Suitable or fitting for a particular purpose or situation.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-appropriate"
+ },
+ {
+  "word": "approximate",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Close to the actual, but not exact, estimate or come close to.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-approximate"
+ },
+ {
+  "word": "arcane",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "mysterious",
+   "obscure"
+  ],
+  "example": "The professor's lecture on arcane mathematical theories confused most of the students",
+  "list": "mustHave",
+  "id": "mh-arcane"
+ },
+ {
+  "word": "arduous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "difficult",
+   "strenuous"
+  ],
+  "example": "The arduous climb to the mountain summit tested the endurance of even experienced hikers.",
+  "list": "mustHave",
+  "id": "mh-arduous"
+ },
+ {
+  "word": "artifice",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Clever or cunning devices or expedients, especially as used to trick or deceive others.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-artifice"
+ },
+ {
+  "word": "artisan",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A skilled worker who makes things by hand, such as a blacksmith or carpenter.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-artisan"
+ },
+ {
+  "word": "assent",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "agreement",
+   "approval"
+  ],
+  "example": "The board gave its assent to the merger after weeks of careful deliberation.",
+  "list": "mustHave",
+  "id": "mh-assent"
+ },
+ {
+  "word": "asserted",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Stated or declared confidently, affirmed or claimed.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-asserted"
+ },
+ {
+  "word": "assertive",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "confident",
+   "self- assured"
+  ],
+  "example": "An assertive communication style helps people express their needs clearly and respectfully.",
+  "list": "mustHave",
+  "id": "mh-assertive"
+ },
+ {
+  "word": "attainable",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Able to be attained; achievable.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-attainable"
+ },
+ {
+  "word": "attest",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "testify",
+   "confirm",
+   "verify"
+  ],
+  "example": "Multiple witnesses can attest to his presence at the scene during that time.",
+  "list": "mustHave",
+  "id": "mh-attest"
+ },
+ {
+  "word": "attrition",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "reduction",
+   "weakening"
+  ],
+  "example": "The company suffered from high employee attrition due to poor working conditions",
+  "list": "mustHave",
+  "id": "mh-attrition"
+ },
+ {
+  "word": "atypical",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Not conforming to the usual or typical pattern, unusual or uncommon.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-atypical"
+ },
+ {
+  "word": "augment",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "increase",
+   "enhance"
+  ],
+  "example": "The company hired freelancers to augment its staff during the busy season.",
+  "list": "mustHave",
+  "id": "mh-augment"
+ },
+ {
+  "word": "barricade",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "barrier",
+   "obstacle"
+  ],
+  "example": "Protesters set up a barricade to prevent vehicles from entering the street",
+  "list": "mustHave",
+  "id": "mh-barricade"
+ },
+ {
+  "word": "belie",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "contradict",
+   "misrepresent"
+  ],
+  "example": "His calm demeanor belied the anxiety he felt before the important presentation",
+  "list": "mustHave",
+  "id": "mh-belie"
+ },
+ {
+  "word": "beneficiary of",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Recipient or person who benefits from something, receiving advantages or gains.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-beneficiary-of"
+ },
+ {
+  "word": "benevolent",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "kind",
+   "charitable"
+  ],
+  "example": "The benevolent donor contributed millions to help fund medical research.",
+  "list": "mustHave",
+  "id": "mh-benevolent"
+ },
+ {
+  "word": "biased",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "prejudiced",
+   "partial",
+   "unfair"
+  ],
+  "example": "The biased reporting favored one political party over the other without presenting facts objectively.",
+  "list": "mustHave",
+  "id": "mh-biased"
+ },
+ {
+  "word": "blemish",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A small mark or flaw which spoils the appearance of something.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-blemish"
+ },
+ {
+  "word": "breadth",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "width",
+   "range",
+   "extent"
+  ],
+  "example": "The breadth of her knowledge on the subject impressed even the senior professors.",
+  "list": "mustHave",
+  "id": "mh-breadth"
+ },
+ {
+  "word": "buttress",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Support or reinforce something, often with evidence or arguments.",
+  "synonyms": [
+   "support",
+   "reinforce",
+   "strengthen"
+  ],
+  "example": "Additional evidence was provided to buttress the argument presented in the legal brief.",
+  "list": "mustHave",
+  "id": "mh-buttress"
+ },
+ {
+  "word": "bypass",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "avoid",
+   "circumvent"
+  ],
+  "example": "The new highway will bypass the congested downtown area, reducing travel time significantly.",
+  "list": "mustHave",
+  "id": "mh-bypass"
+ },
+ {
+  "word": "capacious",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "spacious",
+   "roomy"
+  ],
+  "example": "The capacious auditorium could comfortably seat over a thousand people.",
+  "list": "mustHave",
+  "id": "mh-capacious"
+ },
+ {
+  "word": "captivate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "charm",
+   "mesmerize"
+  ],
+  "example": "The speaker's storytelling ability never failed to captivate the audience",
+  "list": "mustHave",
+  "id": "mh-captivate"
+ },
+ {
+  "word": "catalog",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A systematic list or record of items, often with descriptions or details.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-catalog"
+ },
+ {
+  "word": "catalyst",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "trigger",
+   "reason"
+  ],
+  "example": "The economic crisis became the catalyst for major policy reforms",
+  "list": "mustHave",
+  "id": "mh-catalyst"
+ },
+ {
+  "word": "census",
+  "lists": [
+   "medium"
+  ],
+  "definition": "An official count or survey, especially of a population.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-census"
+ },
+ {
+  "word": "challenged",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Questioned or disputed the accuracy or validity of something.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-challenged"
+ },
+ {
+  "word": "characteristic",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Distinctive feature or quality, trait or attribute.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-characteristic"
+ },
+ {
+  "word": "choreographer",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A person who composes the sequence of steps and moves for a performance of dance.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-choreographer"
+ },
+ {
+  "word": "circumspection",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "caution",
+   "carefulness"
+  ],
+  "example": "She approached the delicate negotiations with great circumspection",
+  "list": "mustHave",
+  "id": "mh-circumspection"
+ },
+ {
+  "word": "clumsily",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "awkwardly",
+   "ungracefully"
+  ],
+  "example": "He clumsily knocked over the vase while reaching for the book.",
+  "list": "mustHave",
+  "id": "mh-clumsily"
+ },
+ {
+  "word": "coalesce",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "unite",
+   "combine"
+  ],
+  "example": "The various protest groups began to coalesce into a unified movement.",
+  "list": "mustHave",
+  "id": "mh-coalesce"
+ },
+ {
+  "word": "cohesion",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "unity",
+   "solidarity",
+   "connection"
+  ],
+  "example": "Team cohesion improved dramatically after the leadership implemented new communication protocols.",
+  "list": "mustHave",
+  "id": "mh-cohesion"
+ },
+ {
+  "word": "coincidental",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "accidental",
+   "unplanned"
+  ],
+  "example": "Their meeting at the airport was purely coincidental, not arranged.",
+  "list": "mustHave",
+  "id": "mh-coincidental"
+ },
+ {
+  "word": "collaboration",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Cooperative effort or partnership between individuals or groups, joint work or cooperation.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-collaboration"
+ },
+ {
+  "word": "collude",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "conspire",
+   "collaborate secretly"
+  ],
+  "example": "The companies were accused of colluding to fix prices and eliminate competition.",
+  "list": "mustHave",
+  "id": "mh-collude"
+ },
+ {
+  "word": "commiserate",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Express or feel sympathy or pity; sympathize.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-commiserate"
+ },
+ {
+  "word": "committed",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Dedicated or devoted to a cause, belief, or course of action.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-committed"
+ },
+ {
+  "word": "commonality",
+  "lists": [
+   "hard"
+  ],
+  "definition": "The state of sharing features or attributes.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-commonality"
+ },
+ {
+  "word": "commonplace",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Ordinary or usual, occurring frequently or widely.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-commonplace"
+ },
+ {
+  "word": "communities with",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Groups or societies characterized by having specific traits or shared characteristics.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-communities-with"
+ },
+ {
+  "word": "compelling",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Convincing or persuasive, evoking strong interest, attention, or admiration.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-compelling"
+ },
+ {
+  "word": "compensate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "make up for",
+   "offset"
+  ],
+  "example": "The company agreed to compensate employees for their overtime work",
+  "list": "mustHave",
+  "id": "mh-compensate"
+ },
+ {
+  "word": "complacency",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "self-satisfaction",
+   "contentment"
+  ],
+  "example": "The team's complacency after early success led to their eventual defeat.",
+  "list": "mustHave",
+  "id": "mh-complacency"
+ },
+ {
+  "word": "complementary",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Combining or working well together, enhancing each other's qualities.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-complementary"
+ },
+ {
+  "word": "compliance with",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Adherence or conformity to a rule, law, or standard.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-compliance-with"
+ },
+ {
+  "word": "compound",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "worsen",
+   "intensify",
+   "aggravate"
+  ],
+  "example": "The lack of communication only served to compound the existing problems.",
+  "list": "mustHave",
+  "id": "mh-compound"
+ },
+ {
+  "word": "comprises",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Consists of or includes a specified set of elements or components.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-comprises"
+ },
+ {
+  "word": "concealed",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Hidden or kept secret, not easily seen or detected.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-concealed"
+ },
+ {
+  "word": "concede",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "Admit or acknowledge something reluctantly, often after a struggle or argument.",
+  "synonyms": [
+   "admit",
+   "acknowledge"
+  ],
+  "example": "After reviewing the evidence, he had to concede that his opponent was right.",
+  "list": "mustHave",
+  "id": "mh-concede"
+ },
+ {
+  "word": "conceivable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "imaginable",
+   "possible"
+  ],
+  "example": "It's conceivable that artificial intelligence could transform healthcare within the next decade.",
+  "list": "mustHave",
+  "id": "mh-conceivable"
+ },
+ {
+  "word": "concur",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "agree",
+   "accord"
+  ],
+  "example": "The independent experts concur that the proposed safety measures are inadequate.",
+  "list": "mustHave",
+  "id": "mh-concur"
+ },
+ {
+  "word": "confine",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "restrict",
+   "limit"
+  ],
+  "example": "Due to illness, she had to confine herself to bed rest for several weeks.",
+  "list": "mustHave",
+  "id": "mh-confine"
+ },
+ {
+  "word": "confined to",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Limited or restricted within a certain boundary or scope.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-confined-to"
+ },
+ {
+  "word": "conflate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "combine",
+   "merge",
+   "confuse"
+  ],
+  "example": "People often conflate correlation with causation in statistical analysis.",
+  "list": "mustHave",
+  "id": "mh-conflate"
+ },
+ {
+  "word": "conform to",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Comply or adhere to established rules, standards, or expectations.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-conform-to"
+ },
+ {
+  "word": "conjecture",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "speculation",
+   "guess"
+  ],
+  "example": "Without solid evidence, any conclusion would be mere conjecture rather than fact",
+  "list": "mustHave",
+  "id": "mh-conjecture"
+ },
+ {
+  "word": "connection",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A relationship or link between people, ideas, or things.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-connection"
+ },
+ {
+  "word": "connoisseur",
+  "lists": [
+   "hard"
+  ],
+  "definition": "An expert judge in matters of taste.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-connoisseur"
+ },
+ {
+  "word": "considerate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "thoughtful",
+   "kind",
+   "attentive"
+  ],
+  "example": "She was considerate enough to call ahead and inform them of her delay.",
+  "list": "mustHave",
+  "id": "mh-considerate"
+ },
+ {
+  "word": "consistent with",
+  "lists": [
+   "hard"
+  ],
+  "definition": "In agreement or harmony with something, compatible or congruent.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-consistent-with"
+ },
+ {
+  "word": "conspicuous",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Clearly visible.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-conspicuous"
+ },
+ {
+  "word": "construct",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Build or create something, typically by putting parts together or organizing.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-construct"
+ },
+ {
+  "word": "contentious",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Causing or likely to cause an argument; controversial.",
+  "synonyms": [
+   "controversial",
+   "disputed",
+   "argumentative"
+  ],
+  "example": "The contentious proposal sparked heated debates among board members.",
+  "list": "mustHave",
+  "id": "mh-contentious"
+ },
+ {
+  "word": "contingent on",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Dependent or conditional on something else, reliant or determined by.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-contingent-on"
+ },
+ {
+  "word": "contradiction",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Inconsistency or opposition between two statements, ideas, or actions, a conflict or paradox.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-contradiction"
+ },
+ {
+  "word": "contrivance of",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "scheme of",
+   "invention of"
+  ],
+  "example": "The entire plan was a contrivance of the villain to gain control of the company",
+  "list": "mustHave",
+  "id": "mh-contrivance-of"
+ },
+ {
+  "word": "contrived",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Artificial or forced, lacking naturalness or spontaneity.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-contrived"
+ },
+ {
+  "word": "convene",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "assemble",
+   "gather"
+  ],
+  "example": "The committee will convene next Tuesday to discuss the proposed policy changes.",
+  "list": "mustHave",
+  "id": "mh-convene"
+ },
+ {
+  "word": "convergence",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "intersection",
+   "union",
+   "similarity"
+  ],
+  "example": "The convergence of technology and education has transformed how students learn today",
+  "list": "mustHave",
+  "id": "mh-convergence"
+ },
+ {
+  "word": "coordinated",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "organized",
+   "synchronized"
+  ],
+  "example": "The rescue teams coordinated their efforts to locate the missing hikers",
+  "list": "mustHave",
+  "id": "mh-coordinated"
+ },
+ {
+  "word": "copious",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "abundant",
+   "plentiful"
+  ],
+  "example": "The detective took copious notes during the witness interviews at the crime scene.",
+  "list": "mustHave",
+  "id": "mh-copious"
+ },
+ {
+  "word": "cordially",
+  "lists": [
+   "hard"
+  ],
+  "definition": "In a courteous and friendly way; graciously.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-cordially"
+ },
+ {
+  "word": "corroboration",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Confirmation or support of a statement, theory, or finding by providing additional evidence or testimony.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-corroboration"
+ },
+ {
+  "word": "counteract",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "oppose",
+   "neutralize",
+   "offset"
+  ],
+  "example": "The medication helps counteract the harmful effects of the toxin.",
+  "list": "mustHave",
+  "id": "mh-counteract"
+ },
+ {
+  "word": "counterbalance",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "offset",
+   "balance",
+   "compensate"
+  ],
+  "example": "The tax cuts were designed to counterbalance the negative effects of inflation.",
+  "list": "mustHave",
+  "id": "mh-counterbalance"
+ },
+ {
+  "word": "counterintuitive",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Contrary to intuition or to common-sense expectation.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-counterintuitive"
+ },
+ {
+  "word": "counterpart",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A person or thing that corresponds to or has the same function as another person or thing in a different place or situation.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-counterpart"
+ },
+ {
+  "word": "created",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Brought into existence or made something new.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-created"
+ },
+ {
+  "word": "criteria for",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Standards or requirements used to evaluate or judge something.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-criteria-for"
+ },
+ {
+  "word": "criticize",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Expresses disapproval or judgment, identifies faults or shortcomings.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-criticize"
+ },
+ {
+  "word": "culpability",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "guilt",
+   "blame"
+  ],
+  "example": "The investigation revealed the company's culpability in the environmental disaster.",
+  "list": "mustHave",
+  "id": "mh-culpability"
+ },
+ {
+  "word": "curtail",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "reduce",
+   "cut back"
+  ],
+  "example": "The university had to curtail several programs due to severe budget constraints.",
+  "list": "mustHave",
+  "id": "mh-curtail"
+ },
+ {
+  "word": "dearth",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "scarcity",
+   "lack"
+  ],
+  "example": "The dearth of qualified candidates made filling the senior position extremely difficult.",
+  "list": "mustHave",
+  "id": "mh-dearth"
+ },
+ {
+  "word": "deceptive",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Tending to mislead or trick, giving a false impression.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-deceptive"
+ },
+ {
+  "word": "decisive",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Settling or determining an outcome or course of action, conclusive or final.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-decisive"
+ },
+ {
+  "word": "decisiveness",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "determination",
+   "resolution"
+  ],
+  "example": "The CEO's decisiveness during the crisis helped the company recover quickly.",
+  "list": "mustHave",
+  "id": "mh-decisiveness"
+ },
+ {
+  "word": "decry",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "denounce",
+   "criticize"
+  ],
+  "example": "Environmental activists decry the continued destruction of rainforests",
+  "list": "mustHave",
+  "id": "mh-decry"
+ },
+ {
+  "word": "defends",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Supports or protects someone or something from harm, criticism, or attack.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-defends"
+ },
+ {
+  "word": "deferred to",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "respected",
+   "honored"
+  ],
+  "example": "In matters of medicine, she always deferred to her doctor's expertise",
+  "list": "mustHave",
+  "id": "mh-deferred-to"
+ },
+ {
+  "word": "deficient",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "lacking",
+   "insufficient"
+  ],
+  "example": "The patient's diet was deficient in essential vitamins and minerals",
+  "list": "mustHave",
+  "id": "mh-deficient"
+ },
+ {
+  "word": "defy",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "resist",
+   "challenge"
+  ],
+  "example": "The athlete's performance seemed to defy the laws of physics and human limitation.",
+  "list": "mustHave",
+  "id": "mh-defy"
+ },
+ {
+  "word": "deliberate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "intentional",
+   "calculated"
+  ],
+  "example": "His decision to remain silent was deliberate, not accidental.",
+  "list": "mustHave",
+  "id": "mh-deliberate"
+ },
+ {
+  "word": "demarcate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "define",
+   "mark boundaries"
+  ],
+  "example": "Fences were erected to demarcate the property lines between the two adjacent farms.",
+  "list": "mustHave",
+  "id": "mh-demarcate"
+ },
+ {
+  "word": "denote",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "indicate",
+   "represent"
+  ],
+  "example": "The red warning lights denote danger and should never be ignored",
+  "list": "mustHave",
+  "id": "mh-denote"
+ },
+ {
+  "word": "depiction",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The way that something is represented or shown",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-depiction"
+ },
+ {
+  "word": "depleted",
+  "lists": [
+   "hard",
+   "medium"
+  ],
+  "definition": "Exhausted or used up, greatly reduced in quantity or effectiveness.",
+  "synonyms": [],
+  "example": "",
+  "forms": [
+   "depleted of"
+  ],
+  "list": "hard",
+  "id": "hd-depleted"
+ },
+ {
+  "word": "derived from",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Obtained or originated from a specific source or origin.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-derived-from"
+ },
+ {
+  "word": "described",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Explained or depicted in words, providing a verbal account or representation.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-described"
+ },
+ {
+  "word": "designate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "appoint",
+   "assign"
+  ],
+  "example": "The committee will designate a chairperson at tomorrow's meeting.",
+  "list": "mustHave",
+  "id": "mh-designate"
+ },
+ {
+  "word": "designation",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "title",
+   "classification"
+  ],
+  "example": "His new designation as senior manager came with additional responsibilities",
+  "list": "mustHave",
+  "id": "mh-designation"
+ },
+ {
+  "word": "desultory",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "random",
+   "aimless"
+  ],
+  "example": "His desultory attempts at studying resulted in poor grades and lack of preparation for exams.",
+  "list": "mustHave",
+  "id": "mh-desultory"
+ },
+ {
+  "word": "detachment",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The state of being objective or aloof.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-detachment"
+ },
+ {
+  "word": "deterrent",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "discouragement",
+   "obstacle"
+  ],
+  "example": "The security cameras serve as a deterrent to potential thieves",
+  "list": "mustHave",
+  "id": "mh-deterrent"
+ },
+ {
+  "word": "developed",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Progressed or advanced over time, growing or evolving.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-developed"
+ },
+ {
+  "word": "diffuse",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Spread over a wide area or between a large number of people.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-diffuse"
+ },
+ {
+  "word": "diffusion",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "spread",
+   "distribution"
+  ],
+  "example": "The diffusion of new technology throughout rural areas has been remarkably slow",
+  "list": "mustHave",
+  "id": "mh-diffusion"
+ },
+ {
+  "word": "diminish",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Make or become less",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-diminish"
+ },
+ {
+  "word": "disagreeable",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Not pleasing or enjoyable, unpleasant or unlikable.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-disagreeable"
+ },
+ {
+  "word": "discernible",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Able to be perceived or recognized.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-discernible"
+ },
+ {
+  "word": "discerning",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "perceptive",
+   "discriminating"
+  ],
+  "example": "The discerning critic could identify subtle flaws in the performance.",
+  "list": "mustHave",
+  "id": "mh-discerning"
+ },
+ {
+  "word": "discourage",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Deter or dissuade someone from doing something, reduce enthusiasm or confidence.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-discourage"
+ },
+ {
+  "word": "discovered",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Found or learned something for the first time, uncovered or revealed.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-discovered"
+ },
+ {
+  "word": "discrepancy",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "inconsistency",
+   "difference"
+  ],
+  "example": "There was a discrepancy between the two reports that needed to be resolved.",
+  "list": "mustHave",
+  "id": "mh-discrepancy"
+ },
+ {
+  "word": "disengage",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Withdraw or detach oneself from a situation or interaction.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-disengage"
+ },
+ {
+  "word": "disguise",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "conceal",
+   "mask",
+   "camouflage"
+  ],
+  "example": "The spy attempted to disguise her identity by wearing a wig and sunglasses.",
+  "list": "mustHave",
+  "id": "mh-disguise"
+ },
+ {
+  "word": "dislodge",
+  "lists": [
+   "medium"
+  ],
+  "definition": "To remove something or someone, especially by force, from a fixed position",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-dislodge"
+ },
+ {
+  "word": "dismiss",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Reject or disregard something as unimportant or unworthy of consideration, ignore or reject.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-dismiss"
+ },
+ {
+  "word": "dismissal",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "rejection",
+   "discharge",
+   "removal"
+  ],
+  "example": "His dismissal from the company came after repeated violations of company policy.",
+  "list": "mustHave",
+  "id": "mh-dismissal"
+ },
+ {
+  "word": "disorienting",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Confusing or causing a loss of sense of direction or orientation.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-disorienting"
+ },
+ {
+  "word": "disparage",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "belittle",
+   "criticize"
+  ],
+  "example": "It's unprofessional to disparage competitors rather than focus on your own strengths.",
+  "list": "mustHave",
+  "id": "mh-disparage"
+ },
+ {
+  "word": "disparate",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Distinct or different in nature or kind, dissimilar.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-disparate"
+ },
+ {
+  "word": "disparity",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "difference",
+   "gap"
+  ],
+  "example": "There is a significant disparity in income levels between urban and rural areas.",
+  "list": "mustHave",
+  "id": "mh-disparity"
+ },
+ {
+  "word": "dispersed",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Scattered or spread out over a wide area, not concentrated or clustered.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-dispersed"
+ },
+ {
+  "word": "dispute",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Engage in a disagreement or argument, challenge or question.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-dispute"
+ },
+ {
+  "word": "disregard",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "ignore",
+   "overlook",
+   "dismiss"
+  ],
+  "example": "The company chose to disregard safety warnings, leading to the accident.",
+  "list": "mustHave",
+  "id": "mh-disregard"
+ },
+ {
+  "word": "dissipate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "disperse",
+   "disappear"
+  ],
+  "example": "The fog began to dissipate as the morning sun warmed the air.",
+  "list": "mustHave",
+  "id": "mh-dissipate"
+ },
+ {
+  "word": "dissociate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "separate",
+   "disconnect"
+  ],
+  "example": "The organization tried to dissociate itself from the controversial statements made by its former member.",
+  "list": "mustHave",
+  "id": "mh-dissociate"
+ },
+ {
+  "word": "dissolution",
+  "lists": [
+   "hard"
+  ],
+  "definition": "The action of formally ending or dismissing an assembly, partnership, or official body.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-dissolution"
+ },
+ {
+  "word": "dissolve",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "break down",
+   "disintegrate",
+   "melt"
+  ],
+  "example": "Stir the mixture continuously until the sugar crystals completely dissolve in the water.",
+  "list": "mustHave",
+  "id": "mh-dissolve"
+ },
+ {
+  "word": "distraction for",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Something that diverts attention or focus from something else.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-distraction-for"
+ },
+ {
+  "word": "distrust",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "suspicion",
+   "mistrust"
+  ],
+  "example": "Years of broken promises led to widespread distrust of political leaders.",
+  "list": "mustHave",
+  "id": "mh-distrust"
+ },
+ {
+  "word": "diverge",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Separate or branch off in different directions, deviate or differ.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-diverge"
+ },
+ {
+  "word": "diverse",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Varied or different in nature, form, or characteristics.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-diverse"
+ },
+ {
+  "word": "diverting",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Entertaining or amusing.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-diverting"
+ },
+ {
+  "word": "divisive",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "controversial",
+   "disruptive"
+  ],
+  "example": "The divisive political issue split the community into opposing groups.",
+  "list": "mustHave",
+  "id": "mh-divisive"
+ },
+ {
+  "word": "dogmatic",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Asserting opinions or beliefs in an arrogant or stubborn manner, without considering other perspectives.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-dogmatic"
+ },
+ {
+  "word": "dormant",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Inactive or temporarily suspended, asleep or quiescent.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-dormant"
+ },
+ {
+  "word": "doubted",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Questioned or had uncertainty about the truth or reliability of something, skeptical or uncertain.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-doubted"
+ },
+ {
+  "word": "dramaturge",
+  "lists": [
+   "hard"
+  ],
+  "definition": "An expert in the art or theory of writing and putting on plays who edits or advises on a play or film script, especially for a particular theatre or series of performances",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-dramaturge"
+ },
+ {
+  "word": "dwindling",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "declining",
+   "decreasing"
+  ],
+  "example": "The dwindling water supplies forced the community to implement strict conservation measures.",
+  "list": "mustHave",
+  "id": "mh-dwindling"
+ },
+ {
+  "word": "ebb",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "decline",
+   "diminish"
+  ],
+  "example": "His enthusiasm began to ebb after months of facing constant setbacks",
+  "list": "mustHave",
+  "id": "mh-ebb"
+ },
+ {
+  "word": "eccentric",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "unconventional",
+   "quirky",
+   "peculiar"
+  ],
+  "example": "The eccentric artist was known for his unusual lifestyle and creative methods.",
+  "list": "mustHave",
+  "id": "mh-eccentric"
+ },
+ {
+  "word": "elicit",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Evoke or draw out (a reaction, answer, or fact) from someone",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-elicit"
+ },
+ {
+  "word": "eliciting",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "evoking",
+   "extracting"
+  ],
+  "example": "The therapist was skilled at eliciting honest responses from her patients.",
+  "list": "mustHave",
+  "id": "mh-eliciting"
+ },
+ {
+  "word": "elusive",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "hard to find",
+   "evasive"
+  ],
+  "example": "The solution to the complex problem remained elusive despite weeks of research.",
+  "list": "mustHave",
+  "id": "mh-elusive"
+ },
+ {
+  "word": "embellished",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "decorated",
+   "adorned"
+  ],
+  "example": "She embellished her story with colorful details to make it more entertaining",
+  "list": "mustHave",
+  "id": "mh-embellished"
+ },
+ {
+  "word": "embrace",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "accept",
+   "adopt"
+  ],
+  "example": "The company decided to embrace new technology to stay competitive.",
+  "list": "mustHave",
+  "id": "mh-embrace"
+ },
+ {
+  "word": "emend",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "correct",
+   "revise",
+   "edit"
+  ],
+  "example": "The editor carefully emended the manuscript to remove all factual errors.",
+  "list": "mustHave",
+  "id": "mh-emend"
+ },
+ {
+  "word": "emissaries",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "representatives",
+   "ambassadors"
+  ],
+  "example": "The king sent emissaries to negotiate peace terms with the neighboring kingdom",
+  "list": "mustHave",
+  "id": "mh-emissaries"
+ },
+ {
+  "word": "encapsulate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "summarize",
+   "capture"
+  ],
+  "example": "Her speech managed to encapsulate the complex issues in just a few powerful sentences.",
+  "list": "mustHave",
+  "id": "mh-encapsulate"
+ },
+ {
+  "word": "enchantment",
+  "lists": [
+   "hard"
+  ],
+  "definition": "A feeling of great pleasure; delight.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-enchantment"
+ },
+ {
+  "word": "encompass",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Surround and have or hold within.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-encompass"
+ },
+ {
+  "word": "encourage",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Inspire or motivate someone to do something, give support or approval.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-encourage"
+ },
+ {
+  "word": "encourages",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Inspires or motivates someone to take action or have a positive attitude.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-encourages"
+ },
+ {
+  "word": "endure",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "withstand",
+   "tolerate",
+   "survive"
+  ],
+  "example": "The ancient fortress was built to endure centuries of harsh weather conditions.",
+  "list": "mustHave",
+  "id": "mh-endure"
+ },
+ {
+  "word": "enduring",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Lasting over a period of time; durable.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-enduring"
+ },
+ {
+  "word": "engender",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "cause",
+   "produce"
+  ],
+  "example": "The new policy is likely to engender controversy among various stakeholder groups.",
+  "list": "mustHave",
+  "id": "mh-engender"
+ },
+ {
+  "word": "engendering",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "causing",
+   "creating"
+  ],
+  "example": "The new policy is engendering debate about privacy rights in the digital age.",
+  "list": "mustHave",
+  "id": "mh-engendering"
+ },
+ {
+  "word": "engulfs",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Describes the action of completely surrounding or covering something or someone, typically in a forceful or overwhelming manner. It can also refer to a situation where something is consumed or overwhelmed by something else.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-engulfs"
+ },
+ {
+  "word": "enlist",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "recruit",
+   "enroll"
+  ],
+  "example": "The organization worked hard to enlist volunteers for the community cleanup project.",
+  "list": "mustHave",
+  "id": "mh-enlist"
+ },
+ {
+  "word": "entail",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "involve",
+   "require"
+  ],
+  "example": "The promotion will entail greater responsibilities and longer working hours.",
+  "list": "mustHave",
+  "id": "mh-entail"
+ },
+ {
+  "word": "entrenching",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Establishing or solidifying something firmly, making it difficult to change or remove.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-entrenching"
+ },
+ {
+  "word": "entrust",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "assign",
+   "delegate"
+  ],
+  "example": "She decided to entrust her savings to a reputable financial advisor.",
+  "list": "mustHave",
+  "id": "mh-entrust"
+ },
+ {
+  "word": "ephemeral",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Lasting for a very short time.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-ephemeral"
+ },
+ {
+  "word": "epitome",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "embodiment",
+   "perfect example"
+  ],
+  "example": "She was the epitome of grace and professionalism in every situation.",
+  "list": "mustHave",
+  "id": "mh-epitome"
+ },
+ {
+  "word": "epitomize",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Be a perfect example of.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-epitomize"
+ },
+ {
+  "word": "epitomizing",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Serving as a perfect example or embodiment of something, representing or symbolizing.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-epitomizing"
+ },
+ {
+  "word": "evade",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "avoid",
+   "escape",
+   "elude"
+  ],
+  "example": "The suspect managed to evade capture for several months before being arrested.",
+  "list": "mustHave",
+  "id": "mh-evade"
+ },
+ {
+  "word": "evasion",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "avoidance",
+   "escape"
+  ],
+  "example": "His evasion of the question made everyone suspicious of his motives",
+  "list": "mustHave",
+  "id": "mh-evasion"
+ },
+ {
+  "word": "evolving",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Developing or changing gradually over time, progressing or transforming.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-evolving"
+ },
+ {
+  "word": "exacerbate",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Make (a problem, bad situation, or negative feeling) worse.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-exacerbate"
+ },
+ {
+  "word": "exactitude",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The quality of bei",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-exactitude"
+ },
+ {
+  "word": "exceed",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "surpass",
+   "go beyond"
+  ],
+  "example": "The project's final costs exceeded the original budget by thirty percent.",
+  "list": "mustHave",
+  "id": "mh-exceed"
+ },
+ {
+  "word": "exemplar",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "epitome",
+   "ideal example"
+  ],
+  "example": "The ancient manuscript serves as an exemplar of medieval calligraphy.",
+  "list": "mustHave",
+  "id": "mh-exemplar"
+ },
+ {
+  "word": "exhilarating",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Making one feel very happy, animated, or elated; thrilling.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-exhilarating"
+ },
+ {
+  "word": "exorbitant",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "excessive",
+   "outrageous"
+  ],
+  "example": "The hotel charged exorbitant prices during the peak tourist season.",
+  "list": "mustHave",
+  "id": "mh-exorbitant"
+ },
+ {
+  "word": "expand on",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Provide further details or information about something, elaborate or develop.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-expand-on"
+ },
+ {
+  "word": "expediency",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "convenience",
+   "practicality"
+  ],
+  "example": "The decision was based on political expediency rather than moral principles.",
+  "list": "mustHave",
+  "id": "mh-expediency"
+ },
+ {
+  "word": "expedite",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "accelerate",
+   "hasten",
+   "speed up"
+  ],
+  "example": "The manager promised to expedite the processing of all urgent requests.",
+  "list": "mustHave",
+  "id": "mh-expedite"
+ },
+ {
+  "word": "expenditure",
+  "lists": [
+   "hard"
+  ],
+  "definition": "The total amount of money that a government or person spends:",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-expenditure"
+ },
+ {
+  "word": "experiment with",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Engage in a trial or exploration of something new or different.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-experiment-with"
+ },
+ {
+  "word": "explains",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Makes something clear or understandable by providing information or details.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-explains"
+ },
+ {
+  "word": "explicable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "explainable",
+   "understandable"
+  ],
+  "example": "The sudden drop in sales is explicable by the recent economic downturn.",
+  "list": "mustHave",
+  "id": "mh-explicable"
+ },
+ {
+  "word": "exploit",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "utilize",
+   "take advantage of"
+  ],
+  "example": "The miners worked to exploit the newly discovered mineral deposits.",
+  "list": "mustHave",
+  "id": "mh-exploit"
+ },
+ {
+  "word": "exposed",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Uncovered or revealed, made visible or known.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-exposed"
+ },
+ {
+  "word": "exposure to",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Being subjected to or in contact with something, often a potentially harmful or influential factor.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-exposure-to"
+ },
+ {
+  "word": "extort",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "coerce",
+   "force"
+  ],
+  "example": "Criminal gangs attempted to extort money from local business owners through intimidation.",
+  "list": "mustHave",
+  "id": "mh-extort"
+ },
+ {
+  "word": "extraordinary",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Remarkable or exceptional, exceeding the ordinary or usual.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-extraordinary"
+ },
+ {
+  "word": "extrapolate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "infer",
+   "project"
+  ],
+  "example": "Scientists extrapolate future climate trends based on current data and models.",
+  "list": "mustHave",
+  "id": "mh-extrapolate"
+ },
+ {
+  "word": "facetious",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "joking",
+   "funny"
+  ],
+  "example": "His facetious remark during the serious meeting was poorly received.",
+  "list": "mustHave",
+  "id": "mh-facetious"
+ },
+ {
+  "word": "feasible",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "possible",
+   "practical"
+  ],
+  "example": "The engineer confirmed that the proposed design was feasible within the budget.",
+  "list": "mustHave",
+  "id": "mh-feasible"
+ },
+ {
+  "word": "fecundity",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "fertility",
+   "productivity",
+   "fruitfulness"
+  ],
+  "example": "The fecundity of her imagination resulted in dozens of published novels.",
+  "list": "mustHave",
+  "id": "mh-fecundity"
+ },
+ {
+  "word": "foment",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "provoke",
+   "encourage"
+  ],
+  "example": "The activist was accused of trying to foment unrest among the workers",
+  "list": "mustHave",
+  "id": "mh-foment"
+ },
+ {
+  "word": "foretells",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Predicts or anticipates something that will happen in the future.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-foretells"
+ },
+ {
+  "word": "forfeiture of",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Giving up or losing something as a penalty or consequence.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-forfeiture-of"
+ },
+ {
+  "word": "fortitude",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "courage",
+   "strength"
+  ],
+  "example": "It takes great fortitude to overcome adversity and continue pursuing your dreams.",
+  "list": "mustHave",
+  "id": "mh-fortitude"
+ },
+ {
+  "word": "foster",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Promote or encourage the development or growth of something.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-foster"
+ },
+ {
+  "word": "fruitless",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Unsuccessful or unproductive, without yielding the desired results or outcomes.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-fruitless"
+ },
+ {
+  "word": "fulfills",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Satisfies or meets expectations, requirements, or desires.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-fulfills"
+ },
+ {
+  "word": "germination",
+  "lists": [
+   "hard"
+  ],
+  "definition": "The process of a seed starting to grow, or the act of causing a seed to start growing.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-germination"
+ },
+ {
+  "word": "grapple with",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Struggle to deal with or understand something challenging or complex.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-grapple-with"
+ },
+ {
+  "word": "grudgingly",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "reluctantly",
+   "unwillingly"
+  ],
+  "example": "He grudgingly admitted that his opponent had made a valid point.",
+  "list": "mustHave",
+  "id": "mh-grudgingly"
+ },
+ {
+  "word": "habitable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "livable",
+   "suitable"
+  ],
+  "example": "Scientists are searching for habitable planets that could support human life.",
+  "list": "mustHave",
+  "id": "mh-habitable"
+ },
+ {
+  "word": "hallmark",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "characteristic",
+   "common feature"
+  ],
+  "example": "Attention to detail has always been the hallmark of her professional work.",
+  "list": "mustHave",
+  "id": "mh-hallmark"
+ },
+ {
+  "word": "hamper",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "hinder",
+   "impede"
+  ],
+  "example": "Budget cuts will hamper the organization's ability to complete the project on time.",
+  "list": "mustHave",
+  "id": "mh-hamper"
+ },
+ {
+  "word": "haphazard",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Lacking organization or order, random or chaotic.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-haphazard"
+ },
+ {
+  "word": "harbinger",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "sign",
+   "omen"
+  ],
+  "example": "The early frost was seen as a harbinger of the harsh winter to come",
+  "list": "mustHave",
+  "id": "mh-harbinger"
+ },
+ {
+  "word": "hegemony",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Leadership or dominance, especially by one country or social group over others.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-hegemony"
+ },
+ {
+  "word": "heterogeneous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "diverse",
+   "varied"
+  ],
+  "example": "The classroom had a heterogeneous group of students from different cultural backgrounds.",
+  "list": "mustHave",
+  "id": "mh-heterogeneous"
+ },
+ {
+  "word": "hideous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "ugly",
+   "grotesque",
+   "repulsive"
+  ],
+  "example": "The hideous monster in the horror film frightened young viewers.",
+  "list": "mustHave",
+  "id": "mh-hideous"
+ },
+ {
+  "word": "hierarchy",
+  "lists": [
+   "hard"
+  ],
+  "definition": "A system in which people or things are arranged according to their importance.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-hierarchy"
+ },
+ {
+  "word": "hoard",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Accumulate (money or valued objects) and hide or store away.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-hoard"
+ },
+ {
+  "word": "homogeneous",
+  "lists": [
+   "mustHave",
+   "hard",
+   "medium"
+  ],
+  "definition": "Consisting of similar or identical parts or elements, uniform or consistent.",
+  "synonyms": [
+   "uniform",
+   "identical"
+  ],
+  "example": "The homogeneous mixture ensured that each sample had the same composition.",
+  "list": "mustHave",
+  "id": "mh-homogeneous"
+ },
+ {
+  "word": "hypothesis",
+  "lists": [
+   "hard"
+  ],
+  "definition": "A proposed explanation or theory based on limited evidence, used as a starting point for further investigation.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-hypothesis"
+ },
+ {
+  "word": "idiosyncratic",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "peculiar",
+   "distinctive"
+  ],
+  "example": "Each artist has an idiosyncratic style that makes their work instantly recognizable.",
+  "list": "mustHave",
+  "id": "mh-idiosyncratic"
+ },
+ {
+  "word": "idle",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "inactive",
+   "lazy"
+  ],
+  "example": "The factory machines sat idle during the strike, halting all production.",
+  "list": "mustHave",
+  "id": "mh-idle"
+ },
+ {
+  "word": "illusory",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "deceptive",
+   "misleading"
+  ],
+  "example": "The sense of security proved to be illusory when the crisis struck.",
+  "list": "mustHave",
+  "id": "mh-illusory"
+ },
+ {
+  "word": "illustrated",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Clarified or explained through the use of examples, pictures, or other visual aids.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-illustrated"
+ },
+ {
+  "word": "imitated",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Copied or reproduced something, often with the intent to resemble or mimic.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-imitated"
+ },
+ {
+  "word": "immature",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Not fully developed or grown, lacking maturity or experience.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-immature"
+ },
+ {
+  "word": "immersive",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Providing, involving, or characterized by deep absorption or immersion in something",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-immersive"
+ },
+ {
+  "word": "immutable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "unchangeable",
+   "fixed",
+   "permanent"
+  ],
+  "example": "The immutable laws of physics govern the behavior of matter throughout the universe.",
+  "list": "mustHave",
+  "id": "mh-immutable"
+ },
+ {
+  "word": "impart",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "convey",
+   "communicate"
+  ],
+  "example": "The mentor's role is to impart wisdom and guidance to younger members of the profession.",
+  "list": "mustHave",
+  "id": "mh-impart"
+ },
+ {
+  "word": "impartiality",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "fairness",
+   "neutrality"
+  ],
+  "example": "The judge's impartiality was crucial in ensuring a fair trial for both parties",
+  "list": "mustHave",
+  "id": "mh-impartiality"
+ },
+ {
+  "word": "impede",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Hinders or obstructs progress or movement, slows down or hampers.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-impede"
+ },
+ {
+  "word": "impending",
+  "lists": [
+   "medium"
+  ],
+  "definition": "(of an event regarded as threatening or significant) about to happen; forthcoming.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-impending"
+ },
+ {
+  "word": "impenetrable",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Impossible to pass through, enter, or understand, impervious or incomprehensible.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-impenetrable"
+ },
+ {
+  "word": "imperative",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "essential",
+   "crucial"
+  ],
+  "example": "It is imperative that we act quickly to address the emergency situation.",
+  "list": "mustHave",
+  "id": "mh-imperative"
+ },
+ {
+  "word": "implement",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "execute",
+   "carry out"
+  ],
+  "example": "The school plans to implement a new curriculum starting next academic year.",
+  "list": "mustHave",
+  "id": "mh-implement"
+ },
+ {
+  "word": "implication",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The conclusion that can be drawn from something although it is not explicitly stated.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-implication"
+ },
+ {
+  "word": "imposing",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "impressive",
+   "grand"
+  ],
+  "example": "The imposing castle stood on the hilltop, dominating the entire valley",
+  "list": "mustHave",
+  "id": "mh-imposing"
+ },
+ {
+  "word": "impractical",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Not practical or feasible, not suitable for practical use.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-impractical"
+ },
+ {
+  "word": "improve on",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Make enhancements or modifications to something to make it better.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-improve-on"
+ },
+ {
+  "word": "improvised",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "spontaneous",
+   "unplanned"
+  ],
+  "example": "The comedian improvised most of his routine based on audience reactions",
+  "list": "mustHave",
+  "id": "mh-improvised"
+ },
+ {
+  "word": "impugn",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "challenge",
+   "question"
+  ],
+  "example": "The defense attorney attempted to impugn the credibility of the prosecution's key witness.",
+  "list": "mustHave",
+  "id": "mh-impugn"
+ },
+ {
+  "word": "inadvertently",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Without intention; accidentally.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-inadvertently"
+ },
+ {
+  "word": "incentive",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A thing that motivates or encourages someone to do something.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-incentive"
+ },
+ {
+  "word": "inception",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "beginning",
+   "start"
+  ],
+  "example": "Since its inception in 1995, the company has grown into a global technology leader.",
+  "list": "mustHave",
+  "id": "mh-inception"
+ },
+ {
+  "word": "inconclusive",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Not decisive or definitive, lacking a final or definite outcome or result.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-inconclusive"
+ },
+ {
+  "word": "incongruous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "inconsistent",
+   "incompatible"
+  ],
+  "example": "His casual attire seemed incongruous at the formal diplomatic reception.",
+  "list": "mustHave",
+  "id": "mh-incongruous"
+ },
+ {
+  "word": "inconsequential",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "Not important or significant.",
+  "synonyms": [
+   "insignificant",
+   "unimportant",
+   "trivial"
+  ],
+  "example": "His complaints about the color scheme seemed inconsequential compared to the project's major issues.",
+  "list": "mustHave",
+  "id": "mh-inconsequential"
+ },
+ {
+  "word": "inconspicuousness",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Not easily seen or noticed",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-inconspicuousness"
+ },
+ {
+  "word": "indecipherable",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Unable to be understood or interpreted, incomprehensible or unintelligible.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-indecipherable"
+ },
+ {
+  "word": "independent of",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Not influenced or affected by something else, existing or operating separately.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-independent-of"
+ },
+ {
+  "word": "indices of",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "indicators of",
+   "signs of"
+  ],
+  "example": "Rising unemployment rates are key indices of economic recession.",
+  "list": "mustHave",
+  "id": "mh-indices-of"
+ },
+ {
+  "word": "indifferent",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "apathetic",
+   "unconcerned",
+   "uninterested"
+  ],
+  "example": "He remained indifferent to the criticism and continued with his plan.",
+  "list": "mustHave",
+  "id": "mh-indifferent"
+ },
+ {
+  "word": "individualistic",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Marked by or expressing individuality; unconventional.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-individualistic"
+ },
+ {
+  "word": "induce",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "persuade",
+   "cause"
+  ],
+  "example": "The medication can induce drowsiness, so patients should avoid driving.",
+  "list": "mustHave",
+  "id": "mh-induce"
+ },
+ {
+  "word": "inducement",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "incentive",
+   "motivation"
+  ],
+  "example": "The company offered a salary increase as an inducement for employees to relocate.",
+  "list": "mustHave",
+  "id": "mh-inducement"
+ },
+ {
+  "word": "ineluctable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "inevitable",
+   "unavoidable"
+  ],
+  "example": "The ineluctable consequences of climate change are becoming increasingly apparent.",
+  "list": "mustHave",
+  "id": "mh-ineluctable"
+ },
+ {
+  "word": "inertia",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "inactivity",
+   "resistance to change"
+  ],
+  "example": "Organizational inertia prevented the company from adapting to market changes.",
+  "list": "mustHave",
+  "id": "mh-inertia"
+ },
+ {
+  "word": "inevitable",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Certain to happen, unavoidable or inescapable.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-inevitable"
+ },
+ {
+  "word": "inexplicable",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Unable to be explained or understood, mysterious or baffling.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-inexplicable"
+ },
+ {
+  "word": "infallible",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Incapable of making mistakes or being wrong, always correct or accurate.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-infallible"
+ },
+ {
+  "word": "infer",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "conclude",
+   "derive"
+  ],
+  "example": "From the evidence presented, we can infer that the suspect was at the scene.",
+  "list": "mustHave",
+  "id": "mh-infer"
+ },
+ {
+  "word": "inferior",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "substandard",
+   "lesser"
+  ],
+  "example": "The counterfeit product was clearly inferior to the original in both quality and durability.",
+  "list": "mustHave",
+  "id": "mh-inferior"
+ },
+ {
+  "word": "infinitesimal",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "tiny",
+   "negligible"
+  ],
+  "example": "The chance of winning the lottery is infinitesimal, yet millions of people play.",
+  "list": "mustHave",
+  "id": "mh-infinitesimal"
+ },
+ {
+  "word": "influx",
+  "lists": [
+   "hard"
+  ],
+  "definition": "An arrival or entry of large numbers of people or things.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-influx"
+ },
+ {
+  "word": "ingenious",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "clever",
+   "inventive",
+   "brilliant"
+  ],
+  "example": "Her ingenious solution to the problem saved the company thousands of dollars.",
+  "list": "mustHave",
+  "id": "mh-ingenious"
+ },
+ {
+  "word": "innocuous",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Harmless or unlikely to cause harm.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-innocuous"
+ },
+ {
+  "word": "innovative",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Introducing new ideas, methods, or techniques, creative or inventive.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-innovative"
+ },
+ {
+  "word": "insensible",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Without one's mental faculties, typically as a result of injury or intoxication; unconscious.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-insensible"
+ },
+ {
+  "word": "inspirational",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Providing motivation, encouragement, or upliftment.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-inspirational"
+ },
+ {
+  "word": "insulation",
+  "lists": [
+   "hard"
+  ],
+  "definition": "The act of covering something to stop heat, sound, or electricity from escaping or entering.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-insulation"
+ },
+ {
+  "word": "insuperable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "insurmountable",
+   "impossible"
+  ],
+  "example": "The team faced insuperable obstacles that made completing the project on time impossible.",
+  "list": "mustHave",
+  "id": "mh-insuperable"
+ },
+ {
+  "word": "insurmountable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "impossible",
+   "unconquerable"
+  ],
+  "example": "The obstacles they faced seemed insurmountable at first but proved manageable.",
+  "list": "mustHave",
+  "id": "mh-insurmountable"
+ },
+ {
+  "word": "intercede",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "intervene",
+   "mediate"
+  ],
+  "example": "The diplomat agreed to intercede in the dispute between the two neighboring countries.",
+  "list": "mustHave",
+  "id": "mh-intercede"
+ },
+ {
+  "word": "interchangeable",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Capable of being substituted or replaced by each other without changing the overall meaning or functionality.",
+  "synonyms": [
+   "substitutable",
+   "replaceable"
+  ],
+  "example": "The parts are interchangeable, so you can use either one in the machine",
+  "list": "mustHave",
+  "id": "mh-interchangeable"
+ },
+ {
+  "word": "interconnected",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "linked",
+   "connected"
+  ],
+  "example": "In today's global economy, all financial markets are deeply interconnected",
+  "list": "mustHave",
+  "id": "mh-interconnected"
+ },
+ {
+  "word": "interface",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "interaction",
+   "connection"
+  ],
+  "example": "The new software interface is intuitive and easy for beginners to navigate.",
+  "list": "mustHave",
+  "id": "mh-interface"
+ },
+ {
+  "word": "interjected",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Interrupted or inserted abruptly into a conversation or discussion.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-interjected"
+ },
+ {
+  "word": "intermingled with",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "mixed with",
+   "blended with"
+  ],
+  "example": "The smell of fresh flowers was intermingled with the scent of baking bread",
+  "list": "mustHave",
+  "id": "mh-intermingled-with"
+ },
+ {
+  "word": "intersect",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Meet or cross at a point, share a common point or element.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-intersect"
+ },
+ {
+  "word": "intersperse",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Scatter among or between other things; place here and there.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-intersperse"
+ },
+ {
+  "word": "interweave",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Blend closely.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-interweave"
+ },
+ {
+  "word": "intricate",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "Complex or detailed, having many interconnected parts or elements.",
+  "synonyms": [
+   "complex",
+   "complicated"
+  ],
+  "example": "The intricate design of the cathedral took master craftsmen decades to complete.",
+  "list": "mustHave",
+  "id": "mh-intricate"
+ },
+ {
+  "word": "intriguing",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Arousing curiosity or interest, fascinating or captivating.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-intriguing"
+ },
+ {
+  "word": "invalidate",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Make something invalid or void, nullify or negate.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-invalidate"
+ },
+ {
+  "word": "inventive",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Creative or imaginative, able to come up with new ideas or solutions.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-inventive"
+ },
+ {
+  "word": "invertebrate",
+  "lists": [
+   "hard"
+  ],
+  "definition": "An animal lacking a backbone, such as an arthropod, mollusc, annelid, coelenterate, etc.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-invertebrate"
+ },
+ {
+  "word": "invoke",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "call upon",
+   "evoke"
+  ],
+  "example": "The lawyer decided to invoke an obscure legal precedent to support her case",
+  "list": "mustHave",
+  "id": "mh-invoke"
+ },
+ {
+  "word": "irrelevant to",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Not connected or applicable to the matter at hand, not relevant or significant.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-irrelevant-to"
+ },
+ {
+  "word": "irreproachable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "perfect",
+   "faultless"
+  ],
+  "example": "Her irreproachable conduct throughout her career earned her widespread respect.",
+  "list": "mustHave",
+  "id": "mh-irreproachable"
+ },
+ {
+  "word": "itinerary",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A planned route or journey.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-itinerary"
+ },
+ {
+  "word": "labyrinthine",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Like a labyrinth; irregular and twisting; intricate and confusing.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-labyrinthine"
+ },
+ {
+  "word": "lacking",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Not having or deficient in something, deprived or missing.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-lacking"
+ },
+ {
+  "word": "lambaste",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "criticize harshly",
+   "berate"
+  ],
+  "example": "The critics lambasted the film for its poor plot and weak performances.",
+  "list": "mustHave",
+  "id": "mh-lambaste"
+ },
+ {
+  "word": "latent",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Existing but not yet manifested or developed, hidden or dormant.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-latent"
+ },
+ {
+  "word": "legitimate",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Lawful or valid, conforming to the law or rules, justified or reasonable.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-legitimate"
+ },
+ {
+  "word": "localized",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Confined or restricted to a specific area or region.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-localized"
+ },
+ {
+  "word": "lonely",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Describing a state of being alone or feeling isolated, lacking companionship.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-lonely"
+ },
+ {
+  "word": "lucrative",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Profitable or financially rewarding, producing a substantial income or profit.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-lucrative"
+ },
+ {
+  "word": "manifest",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Show (a quality or feeling) by one's acts or appearance; demonstrate",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-manifest"
+ },
+ {
+  "word": "manifestation",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "expression",
+   "demonstration"
+  ],
+  "example": "The protest was a manifestation of public frustration with government policies.",
+  "list": "mustHave",
+  "id": "mh-manifestation"
+ },
+ {
+  "word": "mastery over",
+  "lists": [
+   "medium"
+  ],
+  "definition": "control or expertise in a specific domain, command or proficiency.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-mastery-over"
+ },
+ {
+  "word": "material to",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "relevant to",
+   "significant to"
+  ],
+  "example": "These financial documents are material to understanding the company's current fiscal health.",
+  "list": "mustHave",
+  "id": "mh-material-to"
+ },
+ {
+  "word": "meager",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "scarce",
+   "inadequate",
+   "insufficient"
+  ],
+  "example": "The meager portions at the restaurant left the diners feeling hungry",
+  "list": "mustHave",
+  "id": "mh-meager"
+ },
+ {
+  "word": "memoir",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A historical account or biography written from personal knowledge.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-memoir"
+ },
+ {
+  "word": "minuscule",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Extremely small; tiny.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-minuscule"
+ },
+ {
+  "word": "misanthropic",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "pessimistic about humanity"
+  ],
+  "example": "His misanthropic attitude made it difficult for him to form meaningful relationships with others.",
+  "list": "mustHave",
+  "id": "mh-misanthropic"
+ },
+ {
+  "word": "mitigate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "alleviate",
+   "lessen"
+  ],
+  "example": "The company took steps to mitigate the environmental impact of its operations.",
+  "list": "mustHave",
+  "id": "mh-mitigate"
+ },
+ {
+  "word": "momentous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "significant",
+   "important"
+  ],
+  "example": "The signing of the peace treaty was a momentous occasion for both nations.",
+  "list": "mustHave",
+  "id": "mh-momentous"
+ },
+ {
+  "word": "monetizing",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "commercializing",
+   "generating revenue"
+  ],
+  "example": "The company is monetizing its popular app through advertising and premium subscriptions",
+  "list": "mustHave",
+  "id": "mh-monetizing"
+ },
+ {
+  "word": "montage",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The technique of selecting, editing, and piecing together separate sections of film to form a continuous whole.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-montage"
+ },
+ {
+  "word": "morphological",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Relating to the form or structure of things.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-morphological"
+ },
+ {
+  "word": "myriad",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "countless",
+   "numerous"
+  ],
+  "example": "The forest contained myriad species of insects and plants yet to be catalogued.",
+  "list": "mustHave",
+  "id": "mh-myriad"
+ },
+ {
+  "word": "mystifying",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Perplexing or puzzling, difficult to understand or explain.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-mystifying"
+ },
+ {
+  "word": "nebulous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "vague",
+   "unclear"
+  ],
+  "example": "His explanation was too nebulous to provide any practical guidance for the project.",
+  "list": "mustHave",
+  "id": "mh-nebulous"
+ },
+ {
+  "word": "necessitate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "require",
+   "call for"
+  ],
+  "example": "The increase in enrollment will necessitate hiring additional teachers.",
+  "list": "mustHave",
+  "id": "mh-necessitate"
+ },
+ {
+  "word": "negating",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Denying or nullifying the truth or effectiveness of something, canceling out.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-negating"
+ },
+ {
+  "word": "neglected",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Ignored or disregarded, not receiving proper attention or care.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-neglected"
+ },
+ {
+  "word": "negligible",
+  "lists": [
+   "hard"
+  ],
+  "definition": "So small or unimportant as to not be worth considering, insignificant.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-negligible"
+ },
+ {
+  "word": "notional",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "theoretical",
+   "hypothetical"
+  ],
+  "example": "The architect presented a notional design that would require significant modifications before construction",
+  "list": "mustHave",
+  "id": "mh-notional"
+ },
+ {
+  "word": "novel",
+  "lists": [
+   "hard"
+  ],
+  "definition": "New or original, not previously known or experienced.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-novel"
+ },
+ {
+  "word": "novelty",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "newness",
+   "originality"
+  ],
+  "example": "The novelty of the smartphone wore off quickly as newer models were released.",
+  "list": "mustHave",
+  "id": "mh-novelty"
+ },
+ {
+  "word": "nuanced",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Having subtle distinctions or variations, characterized by delicate or precise differences.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-nuanced"
+ },
+ {
+  "word": "nullify",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "cancel",
+   "invalidate"
+  ],
+  "example": "The court's decision will nullify the previous ruling and require a new trial.",
+  "list": "mustHave",
+  "id": "mh-nullify"
+ },
+ {
+  "word": "obedient",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "compliant",
+   "submissive"
+  ],
+  "example": "The obedient students quietly followed the teacher's instructions",
+  "list": "mustHave",
+  "id": "mh-obedient"
+ },
+ {
+  "word": "obliviousness",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "unawareness",
+   "ignorance"
+  ],
+  "example": "His obliviousness to social cues often made conversations awkward for everyone involved.",
+  "list": "mustHave",
+  "id": "mh-obliviousness"
+ },
+ {
+  "word": "obscure",
+  "lists": [
+   "mustHave",
+   "hard",
+   "medium"
+  ],
+  "definition": "Not well-known or widely understood, not clearly expressed or easily perceived.",
+  "synonyms": [
+   "hide",
+   "conceal"
+  ],
+  "example": "She tried to obscure the truth by changing the subject whenever it came up",
+  "list": "mustHave",
+  "id": "mh-obscure"
+ },
+ {
+  "word": "omen",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "sign",
+   "warning"
+  ],
+  "example": "The dark clouds were seen as an omen of the storm approaching.",
+  "list": "mustHave",
+  "id": "mh-omen"
+ },
+ {
+  "word": "ongoing",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Continuing or in progress, not yet completed or resolved.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-ongoing"
+ },
+ {
+  "word": "opaque",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "unclear",
+   "obscure"
+  ],
+  "example": "The company's opaque financial statements made it impossible to assess their true profitability.",
+  "list": "mustHave",
+  "id": "mh-opaque"
+ },
+ {
+  "word": "operative",
+  "lists": [
+   "hard"
+  ],
+  "definition": "In effect or functioning, actively in use or operation.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-operative"
+ },
+ {
+  "word": "ornamental",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Used or intended for decoration, decorative or aesthetic.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-ornamental"
+ },
+ {
+  "word": "ornithologist",
+  "lists": [
+   "hard"
+  ],
+  "definition": "A person who studies or is an expert on birds.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-ornithologist"
+ },
+ {
+  "word": "orthodox",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "conventional",
+   "traditional"
+  ],
+  "example": "His orthodox approach to teaching followed methods used for decades.",
+  "list": "mustHave",
+  "id": "mh-orthodox"
+ },
+ {
+  "word": "oscillate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "swing",
+   "fluctuate"
+  ],
+  "example": "The stock price continued to oscillate between gains and losses throughout the day",
+  "list": "mustHave",
+  "id": "mh-oscillate"
+ },
+ {
+  "word": "outmode",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "make obsolete",
+   "replace"
+  ],
+  "example": "Digital technology quickly outmoded traditional film photography.",
+  "list": "mustHave",
+  "id": "mh-outmode"
+ },
+ {
+  "word": "outmoded",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "outdated",
+   "old- fashioned"
+  ],
+  "example": "The factory's outmoded equipment was finally replaced with modern machinery",
+  "list": "mustHave",
+  "id": "mh-outmoded"
+ },
+ {
+  "word": "outspoken",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "frank",
+   "candid",
+   "vocal"
+  ],
+  "example": "The outspoken activist was never afraid to criticize government policies publicly.",
+  "list": "mustHave",
+  "id": "mh-outspoken"
+ },
+ {
+  "word": "outstrip",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "exceed",
+   "surpass"
+  ],
+  "example": "Demand for the product continues to outstrip the company's manufacturing capacity.",
+  "list": "mustHave",
+  "id": "mh-outstrip"
+ },
+ {
+  "word": "overlooked",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Missed or disregarded, not given proper attention or consideration.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-overlooked"
+ },
+ {
+  "word": "overshadow",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "outshine",
+   "dominate"
+  ],
+  "example": "The scandal threatened to overshadow the politician's many achievements.",
+  "list": "mustHave",
+  "id": "mh-overshadow"
+ },
+ {
+  "word": "overshadowed by",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Eclipsed or obscured by something more prominent or important.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-overshadowed-by"
+ },
+ {
+  "word": "overtly",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Without concealment or secrecy; openly.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-overtly"
+ },
+ {
+  "word": "pamphlet",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A small booklet or leaflet containing information or arguments about a single subject.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-pamphlet"
+ },
+ {
+  "word": "paradox",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "anomaly",
+   "inconsistency"
+  ],
+  "example": "It's a paradox that the more choices we have, the harder it becomes to decide.",
+  "list": "mustHave",
+  "id": "mh-paradox"
+ },
+ {
+  "word": "partitioned",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "divided",
+   "separated"
+  ],
+  "example": "The large room was partitioned into smaller offices to accommodate more staff",
+  "list": "mustHave",
+  "id": "mh-partitioned"
+ },
+ {
+  "word": "paucity",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Scarcity or insufficiency of something, lack of an adequate amount or quality.",
+  "synonyms": [
+   "scarcity",
+   "shortage"
+  ],
+  "example": "The paucity of evidence made it difficult for investigators to solve the case",
+  "forms": [
+   "paucity of"
+  ],
+  "list": "mustHave",
+  "id": "mh-paucity"
+ },
+ {
+  "word": "perceive",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Become aware of or understand something through the senses or intellect.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-perceive"
+ },
+ {
+  "word": "perceptible",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "noticeable",
+   "visible"
+  ],
+  "example": "There was a perceptible change in her mood after she received the good news",
+  "list": "mustHave",
+  "id": "mh-perceptible"
+ },
+ {
+  "word": "peripheral",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Situated on the edge or outskirts, not central or essential.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-peripheral"
+ },
+ {
+  "word": "perpetual",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Never ending or changing",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-perpetual"
+ },
+ {
+  "word": "persist",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Continue or endure over time, not giving up or ceasing.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-persist"
+ },
+ {
+  "word": "perturbation",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "disturbance",
+   "anxiety"
+  ],
+  "example": "The unexpected news caused considerable perturbation among the board members.",
+  "list": "mustHave",
+  "id": "mh-perturbation"
+ },
+ {
+  "word": "pervade",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "spread",
+   "fill"
+  ],
+  "example": "A sense of optimism began to pervade the organization after the announcement",
+  "list": "mustHave",
+  "id": "mh-pervade"
+ },
+ {
+  "word": "picturesque",
+  "lists": [
+   "medium"
+  ],
+  "definition": "(of a place or building) visually attractive, especially in a quaint or charming way.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-picturesque"
+ },
+ {
+  "word": "placate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "appease",
+   "pacify",
+   "calm"
+  ],
+  "example": "The manager tried to placate the angry customer by offering a full refund and apology.",
+  "list": "mustHave",
+  "id": "mh-placate"
+ },
+ {
+  "word": "postulate",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Suggest or assume the existence, fact, or truth of (something) as a basis for reasoning, discussion, or belief.",
+  "synonyms": [
+   "propose",
+   "assume"
+  ],
+  "example": "Scientists postulate that dark matter makes up most of the universe's mass.",
+  "list": "mustHave",
+  "id": "mh-postulate"
+ },
+ {
+  "word": "powerful",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Having great strength, influence, or impact.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-powerful"
+ },
+ {
+  "word": "precariousness",
+  "lists": [
+   "hard"
+  ],
+  "definition": "The state of being dangerously likely to fall or collapse or uncertain or dependent on chance.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-precariousness"
+ },
+ {
+  "word": "precede",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "come before",
+   "antecede"
+  ],
+  "example": "A moment of silence will precede the official ceremony honoring the veterans.",
+  "list": "mustHave",
+  "id": "mh-precede"
+ },
+ {
+  "word": "preceded",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "came before",
+   "anteceded"
+  ],
+  "example": "A brief introduction preceded the main presentation at the conference.",
+  "list": "mustHave",
+  "id": "mh-preceded"
+ },
+ {
+  "word": "preclude",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Prevent from happening; make impossible.",
+  "synonyms": [
+   "prevent",
+   "exclude"
+  ],
+  "example": "His lack of experience may preclude him from being considered for the senior position.",
+  "list": "mustHave",
+  "id": "mh-preclude"
+ },
+ {
+  "word": "precursors of",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Earlier or preliminary indications or events that foreshadow something to come.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-precursors-of"
+ },
+ {
+  "word": "predatory",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Relating to or characterized by preying on other organisms for food or advantage.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-predatory"
+ },
+ {
+  "word": "predetermined",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Established or decided in advance, prearranged or predestined.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-predetermined"
+ },
+ {
+  "word": "predicated on",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "founded on",
+   "dependent on"
+  ],
+  "example": "The entire argument is predicated on the assumption that economic growth will continue.",
+  "list": "mustHave",
+  "id": "mh-predicated-on"
+ },
+ {
+  "word": "predictive of",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Indicative or suggestive of a future event or outcome.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-predictive-of"
+ },
+ {
+  "word": "prefiguring",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Foreshadowing or indicating something that will happen in the future.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-prefiguring"
+ },
+ {
+  "word": "preliminary",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "initial",
+   "introductory"
+  ],
+  "example": "The preliminary results suggest the treatment may be effective, but more research is needed.",
+  "list": "mustHave",
+  "id": "mh-preliminary"
+ },
+ {
+  "word": "premeditated",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Planned or considered beforehand, deliberate or intentional.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-premeditated"
+ },
+ {
+  "word": "prescribed",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Recommended or ordered as a required course of action or treatment.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-prescribed"
+ },
+ {
+  "word": "prestige",
+  "lists": [
+   "medium"
+  ],
+  "definition": "High reputation or esteem associated with someone or something, influence or distinction.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-prestige"
+ },
+ {
+  "word": "prevail",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Succeed or become dominant, prove to be more powerful or influential.",
+  "synonyms": [
+   "succeed",
+   "predominate"
+  ],
+  "example": "Justice will prevail in the end, despite the current obstacles",
+  "list": "mustHave",
+  "id": "mh-prevail"
+ },
+ {
+  "word": "pristine",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "pure",
+   "unspoiled"
+  ],
+  "example": "The pristine wilderness area has been protected from development for generations.",
+  "list": "mustHave",
+  "id": "mh-pristine"
+ },
+ {
+  "word": "proclaims",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Publicly declares or announces something.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-proclaims"
+ },
+ {
+  "word": "proclamation",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "announcement",
+   "declaration"
+  ],
+  "example": "The mayor issued a proclamation declaring the day a citywide celebration.",
+  "list": "mustHave",
+  "id": "mh-proclamation"
+ },
+ {
+  "word": "proficient",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Skilled or competent in a particular activity or subject.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-proficient"
+ },
+ {
+  "word": "profound",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Having deep meaning or significance, profound or thoughtful.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-profound"
+ },
+ {
+  "word": "profusion of",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Abundance or large quantity of something, a great or excessive amount.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-profusion-of"
+ },
+ {
+  "word": "prohibitive in",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "expensive"
+  ],
+  "example": "The prohibitive costs made the project impossible for small businesses.",
+  "list": "mustHave",
+  "id": "mh-prohibitive-in"
+ },
+ {
+  "word": "proliferate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "multiply",
+   "spread rapidly"
+  ],
+  "example": "Social media platforms have proliferated over the past two decades",
+  "list": "mustHave",
+  "id": "mh-proliferate"
+ },
+ {
+  "word": "prolong",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "extend",
+   "lengthen"
+  ],
+  "example": "The new treatment can prolong the lives of patients with this rare disease.",
+  "list": "mustHave",
+  "id": "mh-prolong"
+ },
+ {
+  "word": "proponent of",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Advocate or supporter of a particular idea, cause, or belief.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-proponent-of"
+ },
+ {
+  "word": "protagonist",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The leading character or one of the major characters in a play, film, novel, etc.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-protagonist"
+ },
+ {
+  "word": "provisional",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "temporary",
+   "interim"
+  ],
+  "example": "They reached a provisional agreement pending final approval from management.",
+  "list": "mustHave",
+  "id": "mh-provisional"
+ },
+ {
+  "word": "provocative",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "controversial",
+   "stimulating",
+   "challenging"
+  ],
+  "example": "The artist's provocative work sparked intense debates about freedom of expression.",
+  "list": "mustHave",
+  "id": "mh-provocative"
+ },
+ {
+  "word": "provoke",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "trigger",
+   "stimulate"
+  ],
+  "example": "His controversial remarks provoked an intense debate among the audience.",
+  "list": "mustHave",
+  "id": "mh-provoke"
+ },
+ {
+  "word": "provokes",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Stimulates or incites a reaction or response, often intentionally.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-provokes"
+ },
+ {
+  "word": "proxy",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "substitute",
+   "representative"
+  ],
+  "example": "Since the CEO was traveling abroad, the CFO attended the board meeting as his proxy and cast votes on his behalf",
+  "list": "mustHave",
+  "id": "mh-proxy"
+ },
+ {
+  "word": "prudently",
+  "lists": [
+   "medium"
+  ],
+  "definition": "In a way that is careful and avoids risks.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-prudently"
+ },
+ {
+  "word": "quarrel about",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Engage in a heated argument or disagreement about something.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-quarrel-about"
+ },
+ {
+  "word": "question",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Inquiry or inquiry or uncertainty about something, seeking information or clarification.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-question"
+ },
+ {
+  "word": "questioned",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Doubtful or skeptical about something, expressing uncertainty or seeking clarification.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-questioned"
+ },
+ {
+  "word": "quintessential",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "typical",
+   "essential"
+  ],
+  "example": "He is the quintessential gentleman, always polite and well-mannered",
+  "list": "mustHave",
+  "id": "mh-quintessential"
+ },
+ {
+  "word": "rationalize",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "justify",
+   "explain"
+  ],
+  "example": "He tried to rationalize his poor decisions by blaming external circumstances",
+  "list": "mustHave",
+  "id": "mh-rationalize"
+ },
+ {
+  "word": "react to",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Respond or respond to something, showing a reaction or response.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-react-to"
+ },
+ {
+  "word": "rebuts",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Offers arguments or evidence in response to a statement or claim to contradict or disprove it.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-rebuts"
+ },
+ {
+  "word": "recalcitrant",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "stubborn",
+   "defiant",
+   "uncooperative"
+  ],
+  "example": "The recalcitrant student refused to follow classroom rules despite repeated warnings.",
+  "list": "mustHave",
+  "id": "mh-recalcitrant"
+ },
+ {
+  "word": "recalibrate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "reset",
+   "refine"
+  ],
+  "example": "After the setback, the team needed to recalibrate their strategy for success.",
+  "list": "mustHave",
+  "id": "mh-recalibrate"
+ },
+ {
+  "word": "recants",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Renounces or withdraws a previously held belief or statement.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-recants"
+ },
+ {
+  "word": "reciprocal",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "mutual",
+   "complementary"
+  ],
+  "example": "The two nations signed a reciprocal trade agreement benefiting both economies",
+  "list": "mustHave",
+  "id": "mh-reciprocal"
+ },
+ {
+  "word": "reciprocate",
+  "lists": [
+   "mustHave",
+   "hard"
+  ],
+  "definition": "Respond or react to an action or feeling in the same or similar manner.",
+  "synonyms": [
+   "return",
+   "respond",
+   "exchange"
+  ],
+  "example": "She always reciprocates kindness shown to her by helping others.",
+  "list": "mustHave",
+  "id": "mh-reciprocate"
+ },
+ {
+  "word": "recognizable",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Able to be identified or recognized, familiar or distinguishable.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-recognizable"
+ },
+ {
+  "word": "recognized in",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Acknowledged or identified as having a particular quality or characteristic.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-recognized-in"
+ },
+ {
+  "word": "recommend",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Suggests or advises someone or something as being suitable, beneficial, or advisable.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-recommend"
+ },
+ {
+  "word": "reconstitute",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "rebuild",
+   "restore"
+  ],
+  "example": "Add water to reconstitute the dried soup mix and heat until it reaches serving temperature",
+  "list": "mustHave",
+  "id": "mh-reconstitute"
+ },
+ {
+  "word": "rectify",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "correct",
+   "fix",
+   "remedy"
+  ],
+  "example": "The company promised to rectify the billing errors within the next business week.",
+  "list": "mustHave",
+  "id": "mh-rectify"
+ },
+ {
+  "word": "recurrence",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "repetition",
+   "reappearance"
+  ],
+  "example": "The recurrence of the same errors showed a need for additional practice.",
+  "list": "mustHave",
+  "id": "mh-recurrence"
+ },
+ {
+  "word": "redress",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Remedy or set right (an undesirable or unfair situation).",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-redress"
+ },
+ {
+  "word": "redundancy",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "repetition",
+   "duplication"
+  ],
+  "example": "The editor removed the redundancy in the text to make it more concise.",
+  "list": "mustHave",
+  "id": "mh-redundancy"
+ },
+ {
+  "word": "redundant",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Unnecessary or superfluous, exceeding what is needed or essential.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-redundant"
+ },
+ {
+  "word": "refinements of",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Improvements or enhancements made to something, making it more polished or precise.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-refinements-of"
+ },
+ {
+  "word": "refrain",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "abstain",
+   "avoid",
+   "resist"
+  ],
+  "example": "Please refrain from using mobile phones during the performance out of respect for the artists.",
+  "list": "mustHave",
+  "id": "mh-refrain"
+ },
+ {
+  "word": "refute",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Disprove or contradict a statement, argument, or theory, challenge or deny.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-refute"
+ },
+ {
+  "word": "regretted",
+  "lists": [
+   "hard"
+  ],
+  "definition": "the feeling of sorrow, remorse, or disappointment over something that has happened or been done.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-regretted"
+ },
+ {
+  "word": "rehabilitate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "restore",
+   "reform"
+  ],
+  "example": "The program aims to rehabilitate former offenders and help them reintegrate into society.",
+  "list": "mustHave",
+  "id": "mh-rehabilitate"
+ },
+ {
+  "word": "reinforcing",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Strengthening or supporting, making something stronger or more effective.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-reinforcing"
+ },
+ {
+  "word": "rejuvenate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "revitalize",
+   "refresh",
+   "renew"
+  ],
+  "example": "A weekend spa retreat helped rejuvenate her energy after months of stressful work.",
+  "list": "mustHave",
+  "id": "mh-rejuvenate"
+ },
+ {
+  "word": "remember",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Recall or bring to mind something from the past.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-remember"
+ },
+ {
+  "word": "renounce",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "give up",
+   "abandon"
+  ],
+  "example": "He decided to renounce his claim to the inheritance in favor of his siblings",
+  "list": "mustHave",
+  "id": "mh-renounce"
+ },
+ {
+  "word": "replicability",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "repeatability",
+   "duplicability"
+  ],
+  "example": "The replicability of scientific experiments is essential for validating research findings",
+  "list": "mustHave",
+  "id": "mh-replicability"
+ },
+ {
+  "word": "replicable",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Capable of being reproduced or repeated, able to be replicated.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-replicable"
+ },
+ {
+  "word": "repository",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "storage",
+   "archive"
+  ],
+  "example": "The museum serves as a repository for ancient artifacts and historical documents",
+  "list": "mustHave",
+  "id": "mh-repository"
+ },
+ {
+  "word": "representative of",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Typical or characteristic of a larger group or category.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-representative-of"
+ },
+ {
+  "word": "repressed by",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Suppressed or restrained, kept under control or hidden.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-repressed-by"
+ },
+ {
+  "word": "reprieve",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "respite",
+   "relief"
+  ],
+  "example": "The governor granted a temporary reprieve, delaying the execution pending further review.",
+  "list": "mustHave",
+  "id": "mh-reprieve"
+ },
+ {
+  "word": "repudiate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "reject",
+   "deny"
+  ],
+  "example": "The candidate publicly repudiated the extremist views of some of his supporters.",
+  "list": "mustHave",
+  "id": "mh-repudiate"
+ },
+ {
+  "word": "repudiates",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Rejects or disowns something, refuses to accept or support it.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-repudiates"
+ },
+ {
+  "word": "require",
+  "lists": [
+   "hard",
+   "medium"
+  ],
+  "definition": "Demand or need something as necessary, insist on or necessitate.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-require"
+ },
+ {
+  "word": "resilience",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The capacity to withstand or to recover quickly from difficulties; toughness.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-resilience"
+ },
+ {
+  "word": "responsiveness to",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The ability or willingness to respond to something, receptivity or sensitivity towards.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-responsiveness-to"
+ },
+ {
+  "word": "restored",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Brought back to a previous or original condition or state.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-restored"
+ },
+ {
+  "word": "restrained",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Controlled or limited, not excessive or extravagant.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-restrained"
+ },
+ {
+  "word": "restricted",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Limited or confined within certain boundaries or limitations.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-restricted"
+ },
+ {
+  "word": "retrieve",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "recover",
+   "get back"
+  ],
+  "example": "The dog quickly ran to retrieve the ball from across the field",
+  "list": "mustHave",
+  "id": "mh-retrieve"
+ },
+ {
+  "word": "reverence",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "respect",
+   "admiration"
+  ],
+  "example": "The students showed great reverence for their elderly professor's decades of expertise.",
+  "list": "mustHave",
+  "id": "mh-reverence"
+ },
+ {
+  "word": "revert",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "return",
+   "go back"
+  ],
+  "example": "After trying the new software, the company decided to revert to the old system",
+  "list": "mustHave",
+  "id": "mh-revert"
+ },
+ {
+  "word": "revolt",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "rebel",
+   "uprising",
+   "resistance"
+  ],
+  "example": "The citizens staged a revolt against the oppressive government.",
+  "list": "mustHave",
+  "id": "mh-revolt"
+ },
+ {
+  "word": "ridicule",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Subject to contemptuous and dismissive language or behaviour.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-ridicule"
+ },
+ {
+  "word": "routine",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Regular or habitual, following a fixed pattern or procedure.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-routine"
+ },
+ {
+  "word": "rudimentary",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Basic or fundamental, involving only the most essential aspects.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-rudimentary"
+ },
+ {
+  "word": "sanction",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "Give official permission or approval for (an action).",
+  "synonyms": [
+   "penalty",
+   "punishment"
+  ],
+  "example": "The government imposed economic sanctions on the country for violating international law.",
+  "list": "mustHave",
+  "id": "mh-sanction"
+ },
+ {
+  "word": "sanguine",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "optimistic",
+   "hopeful"
+  ],
+  "example": "Despite the economic downturn, investors remained sanguine about the market's long-term prospects.",
+  "list": "mustHave",
+  "id": "mh-sanguine"
+ },
+ {
+  "word": "satisfactory",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Meeting expectations or requirements, acceptable or adequate.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-satisfactory"
+ },
+ {
+  "word": "satisfying",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Fulfilling or gratifying, giving a sense of contentment or pleasure.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-satisfying"
+ },
+ {
+  "word": "saturated with",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Filled or soaked completely, thoroughly imbued or filled with.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-saturated-with"
+ },
+ {
+  "word": "scarcity",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "shortage",
+   "lack"
+  ],
+  "example": "The scarcity of clean water in the region has become a serious problem",
+  "list": "mustHave",
+  "id": "mh-scarcity"
+ },
+ {
+  "word": "scrutinize",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "Examine or inspect closely and thoroughly.",
+  "synonyms": [
+   "examine closely",
+   "inspect"
+  ],
+  "example": "Auditors will scrutinize the financial records to ensure compliance with regulations.",
+  "list": "mustHave",
+  "id": "mh-scrutinize"
+ },
+ {
+  "word": "secluded",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "isolated",
+   "remote"
+  ],
+  "example": "They found a secluded beach where they could relax away from the crowds.",
+  "list": "mustHave",
+  "id": "mh-secluded"
+ },
+ {
+  "word": "self-servingly",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "selfishly",
+   "egoistically"
+  ],
+  "example": "He self-servingly interpreted the rules to benefit only himself.",
+  "list": "mustHave",
+  "id": "mh-self-servingly"
+ },
+ {
+  "word": "settled",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Resolved or concluded, no longer subject to dispute or uncertainty.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-settled"
+ },
+ {
+  "word": "shrewd",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "astute",
+   "clever"
+  ],
+  "example": "The shrewd businessman negotiated a deal that benefited his company tremendously.",
+  "list": "mustHave",
+  "id": "mh-shrewd"
+ },
+ {
+  "word": "significant",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Important or meaningful, having notable or considerable importance.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-significant"
+ },
+ {
+  "word": "simultaneous",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Occurring, operating, or done at the same time.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-simultaneous"
+ },
+ {
+  "word": "solidify",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "strengthen",
+   "harden"
+  ],
+  "example": "The successful project helped solidify her reputation as an innovative leader.",
+  "list": "mustHave",
+  "id": "mh-solidify"
+ },
+ {
+  "word": "solitary",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "alone",
+   "isolated",
+   "single"
+  ],
+  "example": "The monk lived a solitary life in the remote mountain monastery.",
+  "list": "mustHave",
+  "id": "mh-solitary"
+ },
+ {
+  "word": "soothe",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "calm",
+   "comfort"
+  ],
+  "example": "The mother's gentle voice helped sooth the crying baby.",
+  "list": "mustHave",
+  "id": "mh-soothe"
+ },
+ {
+  "word": "speculate",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Form a theory or conjecture about a subject without firm evidence.",
+  "synonyms": [],
+  "example": "",
+  "forms": [
+   "speculate about"
+  ],
+  "list": "medium",
+  "id": "md-speculate"
+ },
+ {
+  "word": "speculated",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Formed a theory or conjecture without firm evidence, guessed or hypothesized.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-speculated"
+ },
+ {
+  "word": "sporadic",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "occasional",
+   "irregular"
+  ],
+  "example": "The sporadic rainfall was insufficient to end the prolonged drought.",
+  "list": "mustHave",
+  "id": "mh-sporadic"
+ },
+ {
+  "word": "spurious",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "false",
+   "fake"
+  ],
+  "example": "The company's spurious claims about their product's benefits led to legal action by consumers.",
+  "list": "mustHave",
+  "id": "mh-spurious"
+ },
+ {
+  "word": "standard",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Established or widely accepted measure or level of quality, norm or criterion.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-standard"
+ },
+ {
+  "word": "steering",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "guiding",
+   "directing",
+   "navigating"
+  ],
+  "example": "She played a key role in steering the organization through the financial crisis.",
+  "list": "mustHave",
+  "id": "mh-steering"
+ },
+ {
+  "word": "steward",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "caretaker",
+   "guardian"
+  ],
+  "example": "As a steward of the environment, she dedicated her life to conservation efforts.",
+  "list": "mustHave",
+  "id": "mh-steward"
+ },
+ {
+  "word": "stipulation",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "condition",
+   "requirement"
+  ],
+  "example": "The contract included a stipulation that all work must be completed by June.",
+  "list": "mustHave",
+  "id": "mh-stipulation"
+ },
+ {
+  "word": "straightforward",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Clear or uncomplicated, easy to understand or follow.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-straightforward"
+ },
+ {
+  "word": "stylistic",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Of or concerning style, especially literary style.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-stylistic"
+ },
+ {
+  "word": "stymie",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "hinder",
+   "obstruct"
+  ],
+  "example": "Budget constraints continue to stymie efforts to upgrade the aging infrastructure.",
+  "list": "mustHave",
+  "id": "mh-stymie"
+ },
+ {
+  "word": "subduction",
+  "lists": [
+   "hard"
+  ],
+  "definition": "A situation in which of one of the earth's plates (= the large layer of rock that the earth's surface is made of) slides under another, often causing an earthquake or volcano",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-subduction"
+ },
+ {
+  "word": "subdued",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "quiet",
+   "restrained"
+  ],
+  "example": "The atmosphere in the room was subdued after hearing the disappointing news.",
+  "list": "mustHave",
+  "id": "mh-subdued"
+ },
+ {
+  "word": "subordinate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "inferior",
+   "lower- ranking"
+  ],
+  "example": "All department decisions are subordinate to the company's overall strategic goals",
+  "list": "mustHave",
+  "id": "mh-subordinate"
+ },
+ {
+  "word": "subsequent",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Coming after something in time; following.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-subsequent"
+ },
+ {
+  "word": "subside",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "decrease",
+   "diminish"
+  ],
+  "example": "The flooding began to subside after three days of heavy rainfall finally stopped.",
+  "list": "mustHave",
+  "id": "mh-subside"
+ },
+ {
+  "word": "substantial",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Considerable in amount, size, or importance.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-substantial"
+ },
+ {
+  "word": "substantiate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "verify",
+   "confirm"
+  ],
+  "example": "The researcher provided data to substantiate her claims about climate change.",
+  "list": "mustHave",
+  "id": "mh-substantiate"
+ },
+ {
+  "word": "substantiating",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Providing evidence or support for the truth or validity of something.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-substantiating"
+ },
+ {
+  "word": "subsumed in",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Absorbed or included within a larger or more comprehensive entity or category.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-subsumed-in"
+ },
+ {
+  "word": "subsurface",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The stratum or strata below the earth's surface.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-subsurface"
+ },
+ {
+  "word": "subtlety",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "nuance",
+   "delicacy"
+  ],
+  "example": "The subtlety of her performance was lost on audience members unfamiliar with classical theater.",
+  "list": "mustHave",
+  "id": "mh-subtlety"
+ },
+ {
+  "word": "subversive",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Undermining or intended to undermine established systems or institutions, rebellious or disruptive.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-subversive"
+ },
+ {
+  "word": "subverted by",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "undermined by",
+   "weakened by"
+  ],
+  "example": "The reform movement was subverted by powerful interests who wanted to maintain the status quo",
+  "list": "mustHave",
+  "id": "mh-subverted-by"
+ },
+ {
+  "word": "succession",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "chain",
+   "order"
+  ],
+  "example": "A succession of storms hit the coast over the following weeks",
+  "list": "mustHave",
+  "id": "mh-succession"
+ },
+ {
+  "word": "succumb",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Yield or give in to pressure, temptation, or a harmful influence.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-succumb"
+ },
+ {
+  "word": "summation",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "summary",
+   "total",
+   "conclusion"
+  ],
+  "example": "The lawyer's summation effectively highlighted the key evidence supporting her client's innocence.",
+  "list": "mustHave",
+  "id": "mh-summation"
+ },
+ {
+  "word": "superficial",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "shallow",
+   "not detailed"
+  ],
+  "example": "His superficial understanding of the topic became evident during the debate",
+  "list": "mustHave",
+  "id": "mh-superficial"
+ },
+ {
+  "word": "supersede",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "replace",
+   "supplant"
+  ],
+  "example": "The new policy will supersede all previous regulations on the matter",
+  "list": "mustHave",
+  "id": "mh-supersede"
+ },
+ {
+  "word": "supplant",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "replace",
+   "displace",
+   "supersede"
+  ],
+  "example": "Digital cameras have largely supplanted traditional film photography.",
+  "list": "mustHave",
+  "id": "mh-supplant"
+ },
+ {
+  "word": "supplement",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "Addition or enhancement to something, providing additional support or information.",
+  "synonyms": [
+   "addition",
+   "complement"
+  ],
+  "example": "She took vitamin supplements to improve her overall health.",
+  "forms": [
+   "supplement to"
+  ],
+  "list": "mustHave",
+  "id": "mh-supplement"
+ },
+ {
+  "word": "supplemental to",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Providing additional support or complementing something else.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-supplemental-to"
+ },
+ {
+  "word": "surmised",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Concluded or inferred based on limited evidence or information.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-surmised"
+ },
+ {
+  "word": "surrender",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "yield",
+   "give up",
+   "submit"
+  ],
+  "example": "The surrounded troops had no choice but to surrender to the advancing forces.",
+  "list": "mustHave",
+  "id": "mh-surrender"
+ },
+ {
+  "word": "susceptible to",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Likely to be affected or influenced by something, vulnerable or prone to.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-susceptible-to"
+ },
+ {
+  "word": "sway",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "persuade",
+   "convince"
+  ],
+  "example": "Her passionate speech managed to sway many undecided voters",
+  "list": "mustHave",
+  "id": "mh-sway"
+ },
+ {
+  "word": "sympathetic",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "understanding",
+   "supportive"
+  ],
+  "example": "The nurse was sympathetic to the patient's concerns and took time to address them.",
+  "list": "mustHave",
+  "id": "mh-sympathetic"
+ },
+ {
+  "word": "synopsis",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "summary",
+   "overview"
+  ],
+  "example": "The publisher requested a brief synopsis of the novel before considering the manuscript",
+  "list": "mustHave",
+  "id": "mh-synopsis"
+ },
+ {
+  "word": "synthesis",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "combination",
+   "integration",
+   "fusion"
+  ],
+  "example": "Her research represents a synthesis of historical data and modern analysis techniques.",
+  "list": "mustHave",
+  "id": "mh-synthesis"
+ },
+ {
+  "word": "tedious",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Boring or tiresome due to being repetitive or monotonous.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-tedious"
+ },
+ {
+  "word": "tenuous",
+  "lists": [
+   "mustHave",
+   "hard",
+   "medium"
+  ],
+  "definition": "Weak or fragile, having little substance or stability.",
+  "synonyms": [
+   "weak",
+   "fragile"
+  ],
+  "example": "The connection between the two events was tenuous at best.",
+  "list": "mustHave",
+  "id": "mh-tenuous"
+ },
+ {
+  "word": "terminate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "end",
+   "conclude",
+   "discontinue"
+  ],
+  "example": "The company decided to terminate the contract due to repeated violations.",
+  "list": "mustHave",
+  "id": "mh-terminate"
+ },
+ {
+  "word": "tolerate",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Accept or endure something, often with patience or without objection.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-tolerate"
+ },
+ {
+  "word": "topography",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The natural features of land, esp. the shape of its surface, or the science of mapping those features",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-topography"
+ },
+ {
+  "word": "transcend",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Be or go beyond the range or limits of (a field of activity or conceptual sphere).",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-transcend"
+ },
+ {
+  "word": "transcending",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Going beyond or surpassing, rising above or exceeding.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-transcending"
+ },
+ {
+  "word": "trigger",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "initiate",
+   "activate",
+   "cause"
+  ],
+  "example": "The announcement triggered a wave of protests across the country.",
+  "list": "mustHave",
+  "id": "mh-trigger"
+ },
+ {
+  "word": "trivial",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "unimportant",
+   "insignificant"
+  ],
+  "example": "Don't waste time arguing over trivial matters when there are more pressing issues to address.",
+  "list": "mustHave",
+  "id": "mh-trivial"
+ },
+ {
+  "word": "ubiquitous",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "everywhere",
+   "omnipresent"
+  ],
+  "example": "Smartphones have become ubiquitous in modern society.",
+  "list": "mustHave",
+  "id": "mh-ubiquitous"
+ },
+ {
+  "word": "ubiquity",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "omnipresence",
+   "prevalence"
+  ],
+  "example": "The ubiquity of smartphones has transformed how people communicate globally.",
+  "list": "mustHave",
+  "id": "mh-ubiquity"
+ },
+ {
+  "word": "unassuming",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "humble",
+   "unpretentious"
+  ],
+  "example": "Despite his wealth and fame, he maintained an unassuming lifestyle in a modest home.",
+  "list": "mustHave",
+  "id": "mh-unassuming"
+ },
+ {
+  "word": "unbiased",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Impartial or neutral, not favoring one side or perspective over another.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-unbiased"
+ },
+ {
+  "word": "underscore",
+  "lists": [
+   "mustHave",
+   "medium"
+  ],
+  "definition": "Emphasize or highlight, give importance or prominence to.",
+  "synonyms": [
+   "emphasize",
+   "highlight",
+   "stress"
+  ],
+  "example": "The recent failures underscore the need for better training and preparation.",
+  "list": "mustHave",
+  "id": "mh-underscore"
+ },
+ {
+  "word": "undulate",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Move or go with a smooth up-and-down motion.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-undulate"
+ },
+ {
+  "word": "unequivocal",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "clear",
+   "definite"
+  ],
+  "example": "The committee gave its unequivocal support to the proposed changes.",
+  "list": "mustHave",
+  "id": "mh-unequivocal"
+ },
+ {
+  "word": "unfailingly",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "consistently",
+   "reliably"
+  ],
+  "example": "She unfailingly arrived on time for every meeting throughout her career.",
+  "list": "mustHave",
+  "id": "mh-unfailingly"
+ },
+ {
+  "word": "unflattering",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "uncomplimentary",
+   "critical",
+   "negative"
+  ],
+  "example": "The unflattering review highlighted numerous flaws in the restaurant's service and food quality.",
+  "list": "mustHave",
+  "id": "mh-unflattering"
+ },
+ {
+  "word": "uniform",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Consistent or unvarying in form, quality, or character.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-uniform"
+ },
+ {
+  "word": "unimportant",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Not significant or relevant, lacking importance or significance.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-unimportant"
+ },
+ {
+  "word": "unknown",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Not known or familiar, not identified or recognized.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-unknown"
+ },
+ {
+  "word": "unobtrusive",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Not conspicuous or attracting attention, inconspicuous or discreet.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-unobtrusive"
+ },
+ {
+  "word": "unoriginal",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Lacking originality or creativity, not new or innovative.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-unoriginal"
+ },
+ {
+  "word": "unprecedented",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "unparalleled",
+   "extraordinary"
+  ],
+  "example": "The company experienced unprecedented growth during its first year",
+  "list": "mustHave",
+  "id": "mh-unprecedented"
+ },
+ {
+  "word": "unpretentious",
+  "lists": [
+   "hard"
+  ],
+  "definition": "Modest or humble, not attempting to impress or show off.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-unpretentious"
+ },
+ {
+  "word": "untenable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "indefensible",
+   "impossible"
+  ],
+  "example": "The company's financial position became untenable after years of losses.",
+  "list": "mustHave",
+  "id": "mh-untenable"
+ },
+ {
+  "word": "unyielding",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "inflexible",
+   "stubborn"
+  ],
+  "example": "Her unyielding determination to succeed helped her overcome every obstacle in her path.",
+  "list": "mustHave",
+  "id": "mh-unyielding"
+ },
+ {
+  "word": "useful",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Serving a purpose or providing utility, practical or beneficial.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-useful"
+ },
+ {
+  "word": "utopian",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "idealistic",
+   "perfect"
+  ],
+  "example": "His utopian vision of a world without conflict ignored the realities of human nature.",
+  "list": "mustHave",
+  "id": "mh-utopian"
+ },
+ {
+  "word": "validated",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Confirmed or proven to be true, valid, or acceptable.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-validated"
+ },
+ {
+  "word": "variable",
+  "lists": [
+   "hard",
+   "medium"
+  ],
+  "definition": "Subject to change or variation, not constant or consistent.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-variable"
+ },
+ {
+  "word": "verifiable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "confirmable",
+   "provable"
+  ],
+  "example": "All claims in the scientific paper must be verifiable through experimentation.",
+  "list": "mustHave",
+  "id": "mh-verifiable"
+ },
+ {
+  "word": "verisimilitude",
+  "lists": [
+   "hard"
+  ],
+  "definition": "The appearance or quality of being true or real within a work of fiction or art.",
+  "synonyms": [],
+  "example": "",
+  "list": "hard",
+  "id": "hd-verisimilitude"
+ },
+ {
+  "word": "veritable",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "genuine",
+   "true"
+  ],
+  "example": "The basement had become a veritable treasure trove of forgotten antiques and family heirlooms.",
+  "list": "mustHave",
+  "id": "mh-veritable"
+ },
+ {
+  "word": "vindicate",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "clear",
+   "justify",
+   "exonerate"
+  ],
+  "example": "New evidence emerged to vindicate the accused man after years of wrongful imprisonment.",
+  "list": "mustHave",
+  "id": "mh-vindicate"
+ },
+ {
+  "word": "virtuoso",
+  "lists": [
+   "medium"
+  ],
+  "definition": "A person highly skilled in music or another artistic pursuit.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-virtuoso"
+ },
+ {
+  "word": "virtuousness",
+  "lists": [
+   "medium"
+  ],
+  "definition": "The quality of doing what is right and avoiding what is wrong.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-virtuousness"
+ },
+ {
+  "word": "waive",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Voluntarily give up or relinquish a right or claim, forgo or surrender.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-waive"
+ },
+ {
+  "word": "withdraw",
+  "lists": [
+   "medium"
+  ],
+  "definition": "Remove or take back, retract or retreat.",
+  "synonyms": [],
+  "example": "",
+  "list": "medium",
+  "id": "md-withdraw"
+ },
+ {
+  "word": "withdrawing",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "retreating",
+   "pulling back",
+   "removing"
+  ],
+  "example": "The troops began withdrawing from the contested territory under the ceasefire agreement.",
+  "list": "mustHave",
+  "id": "mh-withdrawing"
+ },
+ {
+  "word": "withhold",
+  "lists": [
+   "mustHave"
+  ],
+  "definition": "",
+  "synonyms": [
+   "keep back",
+   "retain"
+  ],
+  "example": "The company decided to withhold the information until the investigation was complete",
+  "list": "mustHave",
+  "id": "mh-withhold"
+ }
+]

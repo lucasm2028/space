@@ -1,0 +1,11 @@
+{
+  "name": "sat1600-tests",
+  "private": true,
+  "description": "Dev-only Playwright smoke tests for the SAT 1600 prep site (not loaded by the site).",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.0"
+  }
+}

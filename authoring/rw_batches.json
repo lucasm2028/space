@@ -1,0 +1,353 @@
+[
+{
+"name": "wic-a",
+"skill": "words-in-context",
+"domain": "craft",
+"count": 5,
+"idPrefix": "rw-wic-a",
+"targetSeconds": 75,
+"topics": "astronomy/planetary science + a pre-1920 British novel excerpt"
+},
+{
+"name": "wic-b",
+"skill": "words-in-context",
+"domain": "craft",
+"count": 5,
+"idPrefix": "rw-wic-b",
+"targetSeconds": 75,
+"topics": "ecology/animal behavior + economics research"
+},
+{
+"name": "wic-c",
+"skill": "words-in-context",
+"domain": "craft",
+"count": 5,
+"idPrefix": "rw-wic-c",
+"targetSeconds": 75,
+"topics": "art history/music scholarship + geology"
+},
+{
+"name": "wic-d",
+"skill": "words-in-context",
+"domain": "craft",
+"count": 5,
+"idPrefix": "rw-wic-d",
+"targetSeconds": 75,
+"topics": "Indigenous/world cultural practices + neuroscience"
+},
+{
+"name": "wic-e",
+"skill": "words-in-context",
+"domain": "craft",
+"count": 5,
+"idPrefix": "rw-wic-e",
+"targetSeconds": 75,
+"topics": "archaeology/linguistics + a pre-1929 American short story"
+},
+{
+"name": "tsp-a",
+"skill": "text-structure",
+"domain": "craft",
+"count": 4,
+"idPrefix": "rw-tsp-a",
+"targetSeconds": 85,
+"topics": "materials science/engineering + poetry scholarship"
+},
+{
+"name": "tsp-b",
+"skill": "text-structure",
+"domain": "craft",
+"count": 4,
+"idPrefix": "rw-tsp-b",
+"targetSeconds": 85,
+"topics": "marine biology + urban policy research"
+},
+{
+"name": "tsp-c",
+"skill": "text-structure",
+"domain": "craft",
+"count": 4,
+"idPrefix": "rw-tsp-c",
+"targetSeconds": 85,
+"topics": "food science/agriculture + theater/dance history"
+},
+{
+"name": "tsp-d",
+"skill": "text-structure",
+"domain": "craft",
+"count": 4,
+"idPrefix": "rw-tsp-d",
+"targetSeconds": 85,
+"topics": "paleontology + a 19th-century essay excerpt"
+},
+{
+"name": "ctc-a",
+"skill": "cross-text",
+"domain": "craft",
+"count": 4,
+"idPrefix": "rw-ctc-a",
+"targetSeconds": 95,
+"topics": "psychology/cognitive science + architecture"
+},
+{
+"name": "ctc-b",
+"skill": "cross-text",
+"domain": "craft",
+"count": 4,
+"idPrefix": "rw-ctc-b",
+"targetSeconds": 95,
+"topics": "astronomy/planetary science + a pre-1920 British novel excerpt"
+},
+{
+"name": "ctc-c",
+"skill": "cross-text",
+"domain": "craft",
+"count": 4,
+"idPrefix": "rw-ctc-c",
+"targetSeconds": 95,
+"topics": "ecology/animal behavior + economics research"
+},
+{
+"name": "cid-a",
+"skill": "central-ideas",
+"domain": "information",
+"count": 6,
+"idPrefix": "rw-cid-a",
+"targetSeconds": 85,
+"topics": "art history/music scholarship + geology"
+},
+{
+"name": "cid-b",
+"skill": "central-ideas",
+"domain": "information",
+"count": 6,
+"idPrefix": "rw-cid-b",
+"targetSeconds": 85,
+"topics": "Indigenous/world cultural practices + neuroscience"
+},
+{
+"name": "cid-c",
+"skill": "central-ideas",
+"domain": "information",
+"count": 6,
+"idPrefix": "rw-cid-c",
+"targetSeconds": 85,
+"topics": "archaeology/linguistics + a pre-1929 American short story"
+},
+{
+"name": "cet-a",
+"skill": "evidence-textual",
+"domain": "information",
+"count": 4,
+"idPrefix": "rw-cet-a",
+"targetSeconds": 90,
+"topics": "materials science/engineering + poetry scholarship"
+},
+{
+"name": "cet-b",
+"skill": "evidence-textual",
+"domain": "information",
+"count": 4,
+"idPrefix": "rw-cet-b",
+"targetSeconds": 90,
+"topics": "marine biology + urban policy research"
+},
+{
+"name": "cet-c",
+"skill": "evidence-textual",
+"domain": "information",
+"count": 4,
+"idPrefix": "rw-cet-c",
+"targetSeconds": 90,
+"topics": "food science/agriculture + theater/dance history"
+},
+{
+"name": "cet-d",
+"skill": "evidence-textual",
+"domain": "information",
+"count": 4,
+"idPrefix": "rw-cet-d",
+"targetSeconds": 90,
+"topics": "paleontology + a 19th-century essay excerpt"
+},
+{
+"name": "ceq-a",
+"skill": "evidence-quant",
+"domain": "information",
+"count": 4,
+"idPrefix": "rw-ceq-a",
+"targetSeconds": 95,
+"topics": "psychology/cognitive science + architecture"
+},
+{
+"name": "ceq-b",
+"skill": "evidence-quant",
+"domain": "information",
+"count": 4,
+"idPrefix": "rw-ceq-b",
+"targetSeconds": 95,
+"topics": "astronomy/planetary science + a pre-1920 British novel excerpt"
+},
+{
+"name": "ceq-c",
+"skill": "evidence-quant",
+"domain": "information",
+"count": 4,
+"idPrefix": "rw-ceq-c",
+"targetSeconds": 95,
+"topics": "ecology/animal behavior + economics research"
+},
+{
+"name": "ceq-d",
+"skill": "evidence-quant",
+"domain": "information",
+"count": 2,
+"idPrefix": "rw-ceq-d",
+"targetSeconds": 95,
+"topics": "art history/music scholarship + geology"
+},
+{
+"name": "inf-a",
+"skill": "inferences",
+"domain": "information",
+"count": 6,
+"idPrefix": "rw-inf-a",
+"targetSeconds": 95,
+"topics": "Indigenous/world cultural practices + neuroscience"
+},
+{
+"name": "inf-b",
+"skill": "inferences",
+"domain": "information",
+"count": 6,
+"idPrefix": "rw-inf-b",
+"targetSeconds": 95,
+"topics": "archaeology/linguistics + a pre-1929 American short story"
+},
+{
+"name": "inf-c",
+"skill": "inferences",
+"domain": "information",
+"count": 6,
+"idPrefix": "rw-inf-c",
+"targetSeconds": 95,
+"topics": "materials science/engineering + poetry scholarship"
+},
+{
+"name": "bnd-a",
+"skill": "boundaries",
+"domain": "conventions",
+"count": 5,
+"idPrefix": "rw-bnd-a",
+"targetSeconds": 50,
+"topics": "marine biology + urban policy research"
+},
+{
+"name": "bnd-b",
+"skill": "boundaries",
+"domain": "conventions",
+"count": 5,
+"idPrefix": "rw-bnd-b",
+"targetSeconds": 50,
+"topics": "food science/agriculture + theater/dance history"
+},
+{
+"name": "bnd-c",
+"skill": "boundaries",
+"domain": "conventions",
+"count": 5,
+"idPrefix": "rw-bnd-c",
+"targetSeconds": 50,
+"topics": "paleontology + a 19th-century essay excerpt"
+},
+{
+"name": "bnd-d",
+"skill": "boundaries",
+"domain": "conventions",
+"count": 5,
+"idPrefix": "rw-bnd-d",
+"targetSeconds": 50,
+"topics": "psychology/cognitive science + architecture"
+},
+{
+"name": "fss-a",
+"skill": "form-structure-sense",
+"domain": "conventions",
+"count": 6,
+"idPrefix": "rw-fss-a",
+"targetSeconds": 50,
+"topics": "astronomy/planetary science + a pre-1920 British novel excerpt"
+},
+{
+"name": "fss-b",
+"skill": "form-structure-sense",
+"domain": "conventions",
+"count": 6,
+"idPrefix": "rw-fss-b",
+"targetSeconds": 50,
+"topics": "ecology/animal behavior + economics research"
+},
+{
+"name": "fss-c",
+"skill": "form-structure-sense",
+"domain": "conventions",
+"count": 6,
+"idPrefix": "rw-fss-c",
+"targetSeconds": 50,
+"topics": "art history/music scholarship + geology"
+},
+{
+"name": "tra-a",
+"skill": "transitions",
+"domain": "expression",
+"count": 5,
+"idPrefix": "rw-tra-a",
+"targetSeconds": 60,
+"topics": "Indigenous/world cultural practices + neuroscience"
+},
+{
+"name": "tra-b",
+"skill": "transitions",
+"domain": "expression",
+"count": 5,
+"idPrefix": "rw-tra-b",
+"targetSeconds": 60,
+"topics": "archaeology/linguistics + a pre-1929 American short story"
+},
+{
+"name": "tra-c",
+"skill": "transitions",
+"domain": "expression",
+"count": 5,
+"idPrefix": "rw-tra-c",
+"targetSeconds": 60,
+"topics": "materials science/engineering + poetry scholarship"
+},
+{
+"name": "rhs-a",
+"skill": "rhetorical-synthesis",
+"domain": "expression",
+"count": 4,
+"idPrefix": "rw-rhs-a",
+"targetSeconds": 60,
+"topics": "marine biology + urban policy research"
+},
+{
+"name": "rhs-b",
+"skill": "rhetorical-synthesis",
+"domain": "expression",
+"count": 4,
+"idPrefix": "rw-rhs-b",
+"targetSeconds": 60,
+"topics": "food science/agriculture + theater/dance history"
+},
+{
+"name": "rhs-c",
+"skill": "rhetorical-synthesis",
+"domain": "expression",
+"count": 4,
+"idPrefix": "rw-rhs-c",
+"targetSeconds": 60,
+"topics": "paleontology + a 19th-century essay excerpt"
+}
+]
