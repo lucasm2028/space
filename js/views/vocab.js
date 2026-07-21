@@ -15,7 +15,7 @@
     ]));
 
     main.appendChild(el('div', { 'class': 'grid grid-3' }, [
-      modeCard('🃏', 'Flashcards', due > 0 ? due + ' due now' : 'Spaced-repetition review + new words', '#/vocab/flashcards', true),
+      modeCard('🃏', 'Flashcards', due > 0 ? due + ' due now' : 'Review + new words — keep practicing anytime', '#/vocab/flashcards', true),
       modeCard('✏️', 'SAT-Style Questions', 'Real “Words in Context” format, one per word', '#/vocab/quiz'),
       modeCard('⚡', 'Synonym Sprint', '60-second rapid matching rounds', '#/vocab/drill')
     ]));

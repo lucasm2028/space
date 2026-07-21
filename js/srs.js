@@ -70,15 +70,34 @@
   }
 
   var LIST_PRIORITY = { mustHave: 0, hard: 1, medium: 2 };
-  function newQueue(limit) {
+  function newQueue(limit, exclude) {
     var srs = S.state.get().srs;
-    var fresh = S.data.vocab().filter(function (w) { return !srs[w.id]; });
+    var fresh = S.data.vocab().filter(function (w) {
+      return !srs[w.id] && !(exclude && exclude[w.id]);
+    });
     fresh.sort(function (a, b) {
       var pa = LIST_PRIORITY[a.list], pb = LIST_PRIORITY[b.list];
       if (pa !== pb) return pa - pb;
       return a.word < b.word ? -1 : 1;
     });
     return fresh.slice(0, limit).map(function (w) { return w.id; });
+  }
+
+  // Extra-practice queue: already-started words, weakest first (leeches, then shortest
+  // interval, then soonest due). Used to keep drilling after all reviews are done.
+  function practiceQueue(limit, exclude) {
+    var srs = S.state.get().srs;
+    var started = S.data.vocab().filter(function (w) {
+      return srs[w.id] && !(exclude && exclude[w.id]);
+    });
+    started.sort(function (a, b) {
+      var ra = srs[a.id], rb = srs[b.id];
+      var la = isLeech(ra) ? 0 : 1, lb = isLeech(rb) ? 0 : 1;
+      if (la !== lb) return la - lb;
+      if (ra.ivl !== rb.ivl) return ra.ivl - rb.ivl;
+      return ra.due < rb.due ? -1 : (ra.due > rb.due ? 1 : 0);
+    });
+    return started.slice(0, limit).map(function (w) { return w.id; });
   }
 
   function tierDistribution() {
@@ -95,6 +114,7 @@
 
   S.srs = {
     rate: rate, tierOf: tierOf, isLeech: isLeech, TIERS: TIERS,
-    dueQueue: dueQueue, newQueue: newQueue, tierDistribution: tierDistribution, leeches: leeches
+    dueQueue: dueQueue, newQueue: newQueue, practiceQueue: practiceQueue,
+    tierDistribution: tierDistribution, leeches: leeches
   };
 })(window.SATPrep = window.SATPrep || {});

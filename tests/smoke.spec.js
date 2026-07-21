@@ -108,6 +108,55 @@ test.describe('flashcards / SRS', () => {
   });
 });
 
+test.describe('flashcards / keep going', () => {
+  // Seeds saved settings so the initial session is tiny; storage merges in defaults.
+  const seed = (settings) =>
+    `localStorage.setItem('sat1600.v1', JSON.stringify({ schemaVersion: 1, settings: ${JSON.stringify(settings)} }));`;
+
+  test('finishing the session offers more new words beyond the daily quota', async ({ page, baseURL }) => {
+    await page.addInitScript(seed({ dailyNewWords: 2 }));
+    await page.goto(urlFor(baseURL, '#/vocab/flashcards'));
+    for (let i = 0; i < 2; i++) {
+      await page.locator('.fc-card').click();
+      await page.locator('.fc-good').click();
+    }
+    await expect(page.locator('.fc-stage h2')).toContainText('Session complete');
+    await expect(page.locator('.fc-more-new')).toContainText('Learn 10 more new words');
+    await page.locator('.fc-more-new').click();
+    await expect(page.locator('.fc-stage')).toContainText('new word');
+    await page.locator('.fc-card').click();
+    await page.locator('.fc-good').click();
+    const stored = await readState(page);
+    expect(Object.keys(stored.srs).length).toBe(3);
+    expect(Object.values(stored.days)[0].newWords).toBe(3); // past the quota of 2
+  });
+
+  test('extra practice re-drills learned words without touching the schedule', async ({ page, baseURL }) => {
+    await page.addInitScript(seed({ dailyNewWords: 1 }));
+    await page.goto(urlFor(baseURL, '#/vocab/flashcards'));
+    await page.locator('.fc-card').click();
+    await page.locator('.fc-good').click();
+    await expect(page.locator('.fc-stage h2')).toContainText('Session complete');
+    const before = Object.values((await readState(page)).srs)[0];
+    await page.locator('.fc-more-practice').click();
+    await expect(page.locator('.fc-stage')).toContainText('extra practice');
+    await page.locator('.fc-card').click();
+    await page.locator('.fc-easy').click(); // would reschedule if it were a real review
+    const stored = await readState(page);
+    expect(Object.values(stored.srs)[0]).toEqual(before); // schedule untouched
+    expect(Object.values(stored.days)[0].reviews).toBe(1); // ledger untouched
+    await expect(page.locator('.fc-stage h2')).toContainText('Session complete');
+  });
+
+  test('nothing due still lets you start learning immediately', async ({ page, baseURL }) => {
+    await page.addInitScript(seed({ dailyNewWords: 0 }));
+    await page.goto(urlFor(baseURL, '#/vocab/flashcards'));
+    await expect(page.locator('.fc-stage h2')).toContainText('Nothing due right now');
+    await page.locator('.fc-more-new').click();
+    await expect(page.locator('.fc-card')).toBeVisible();
+  });
+});
+
 test.describe('vocab quiz (real content)', () => {
   test('answers record and word card appears', async ({ page, baseURL }) => {
     await page.goto(urlFor(baseURL, '#/vocab/quiz'));
