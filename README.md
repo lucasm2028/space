@@ -19,7 +19,7 @@ appears at `https://<your-username>.github.io/<repo>/` in a minute or two.
 
 ## What's inside
 
-### Vocabulary (576 words from your three lists)
+### Vocabulary (1,460 words from your lists)
 - **Flashcards with spaced repetition** — an SM-2 scheduler decides when each word comes back
   (Again / Hard / Good / Easy, keyboard `space` + `1–4`). Words climb mastery tiers
   (New → Learning → Familiar → Strong → Mastered) and demote when you lapse. Words you miss
@@ -28,6 +28,9 @@ appears at `https://<your-username>.github.io/<repo>/` in a minute or two.
   logical and precise word or phrase?"* question per word, with an explanation for **every**
   answer choice (including why each wrong choice is wrong, tagged with its trap type).
 - **Synonym Sprint** — 60-second rapid matching rounds for recall speed.
+- **SparkNotes 1000 list** — the "1000 Most Common SAT Words" (definitions + example
+  sentences), filtered to the 884 words not already covered by the other lists. These are
+  flashcard-only (no per-word quiz question) and are introduced after the curated lists.
 
 ### Reading & Writing practice (hard difficulty only)
 - **130 hard questions** across all 11 official skills (Words in Context, Text Structure &

@@ -69,7 +69,7 @@
     return due;
   }
 
-  var LIST_PRIORITY = { mustHave: 0, hard: 1, medium: 2 };
+  var LIST_PRIORITY = { mustHave: 0, hard: 1, medium: 2, sparknotes: 3 };
   function newQueue(limit, exclude) {
     var srs = S.state.get().srs;
     var fresh = S.data.vocab().filter(function (w) {

@@ -34,7 +34,7 @@
     { id: 'timing', label: 'Rushed / ran out of time' },
     { id: 'other', label: 'Other' }
   ];
-  var LIST_LABELS = { mustHave: 'Must-Have', hard: 'DSAT Hard', medium: 'DSAT Medium' };
+  var LIST_LABELS = { mustHave: 'Must-Have', hard: 'DSAT Hard', medium: 'DSAT Medium', sparknotes: 'SparkNotes 1000' };
 
   var raw = null;
   var idx = {

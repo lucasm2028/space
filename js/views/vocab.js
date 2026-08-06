@@ -11,7 +11,7 @@
 
     main.appendChild(el('h1', null, ['Vocabulary']));
     main.appendChild(el('p', { 'class': 'muted' }, [
-      String(S.data.vocab().length) + ' words from your three lists. Learn them with spaced-repetition flashcards, then transfer them to test conditions with SAT-style questions.'
+      String(S.data.vocab().length) + ' words from your lists. Learn them with spaced-repetition flashcards, then transfer them to test conditions with SAT-style questions.'
     ]));
 
     main.appendChild(el('div', { 'class': 'grid grid-3' }, [
@@ -21,7 +21,7 @@
     ]));
 
     // per-list breakdown
-    var lists = ['mustHave', 'hard', 'medium'];
+    var lists = ['mustHave', 'hard', 'medium', 'sparknotes'];
     main.appendChild(el('div', { 'class': 'card mt-4' }, [
       el('h2', null, ['Your lists']),
       el('div', { 'class': 'grid grid-3' }, lists.map(function (L) {
@@ -71,7 +71,7 @@
         el('thead', null, [el('tr', null, [
           el('th', null, ['Word']), el('th', null, ['Meaning']), el('th', null, ['Tier'])
         ])]),
-        el('tbody', null, rows.slice(0, 400).map(function (w) {
+        el('tbody', null, rows.slice(0, 1500).map(function (w) {
           var tier = S.srs.tierOf(state.srs[w.id]);
           var tierDef = null;
           S.srs.TIERS.forEach(function (t) { if (t.id === tier) tierDef = t; });
@@ -85,7 +85,7 @@
         }))
       ]);
       tableWrap.appendChild(table);
-      if (rows.length > 400) tableWrap.appendChild(el('p', { 'class': 'small faint' }, ['Showing first 400 matches.']));
+      if (rows.length > 1500) tableWrap.appendChild(el('p', { 'class': 'small faint' }, ['Showing first 1500 matches.']));
     }
 
     function modeCard(icon, title, sub, href, primary) {
