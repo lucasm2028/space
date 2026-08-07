@@ -284,6 +284,17 @@ test.describe('redo flow', () => {
   });
 });
 
+test.describe('settings', () => {
+  test('daily new-words goal accepts values beyond 50', async ({ page, baseURL }) => {
+    await page.goto(urlFor(baseURL, '#/settings'));
+    const newWordsInput = page.locator('input[type="number"]').first();
+    await newWordsInput.fill('200');
+    await page.locator('button:has-text("Save goals")').click();
+    const stored = await readState(page);
+    expect(stored.settings.dailyNewWords).toBe(200);
+  });
+});
+
 test.describe('export/import', () => {
   test('export then import restores progress', async ({ page, baseURL }) => {
     await page.goto(urlFor(baseURL, '#/vocab/flashcards'));

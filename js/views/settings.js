@@ -12,7 +12,7 @@
     main.appendChild(grid);
 
     // goals
-    var newWords = numInput(st.settings.dailyNewWords, 0, 50);
+    var newWords = numInput(st.settings.dailyNewWords, 0, 1000);
     var questions = numInput(st.settings.dailyPracticeQuestions, 0, 50);
     grid.appendChild(el('div', { 'class': 'card' }, [
       el('h2', null, ['Daily goal']),
@@ -25,7 +25,7 @@
         'class': 'btn btn-primary mt-3', type: 'button',
         onclick: function () {
           S.state.updateSettings({
-            dailyNewWords: clamp(newWords.value, 0, 50, 10),
+            dailyNewWords: clamp(newWords.value, 0, 1000, 10),
             dailyPracticeQuestions: clamp(questions.value, 0, 50, 5)
           });
           S.ui.toast('Goals saved');
